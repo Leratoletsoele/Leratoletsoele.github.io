@@ -6,7 +6,7 @@
 ---
 
 ## 🧑🏽‍💼 Professional Profile
-Motivated final-year Information and Communication Technology student with strong skills in software development and data analysis. Passionate about building efficient, data-driven systems and solving real-world problems using technology.
+Motivated final year Information and Communication Technology student with strong skills in software development and data analysis. Passionate about building efficient data-driven systems and solving real world problems using technology.
 
 ---
 
@@ -24,8 +24,7 @@ Motivated final-year Information and Communication Technology student with stron
 ## 🚀 Projects
 
 ### 📚 Student Enrollment System  
-🔗 [View on GitHub](https://github.com/Lerato-25/StudentEnrollmentSystem.git)
-
+🔗 [View on GitHub(https://github.com/Lerato-25/StudentEnrollmentSystem.git)]
 - Built a database-driven desktop application  
 - Designed structured relational database tables  
 - Implemented CRUD operations using SQL  
@@ -52,9 +51,9 @@ National Senior Certificate
 
 During my studies, I applied theoretical knowledge such as database design and object-oriented programming in practical projects like the Student Enrollment System.  
 
-This experience improved my **problem-solving skills**, **technical confidence**, and **ability to learn independently**. I also developed self-awareness by identifying areas I need to improve, such as advanced database optimization and software testing.  
+This experience improved my **problem solving skills**, **technical confidence**, and **ability to learn independently**. I also developed self awareness by identifying areas I need to improve, such as advanced database optimization and software testing.  
 
-I am continuously working on improving my skills and becoming a well-rounded IT professional.
+I am continuously working on improving my skills and becoming a well rounded IT professional.
 
 ---
 
