@@ -25,7 +25,8 @@ Motivated final year Information and Communication Technology student with stron
 
 ### 📚 Student Enrollment System  
 🔗 [ View on GitHub (https://github.com/Lerato-25/StudentEnrollmentSystem.git)]
-<p>Check out my project: <a href="https://github.com/Lerato-25/StudentEnrollmentSystem" target="_blank">Student Enrollment System</a></p>- Built a database driven desktop application  
+<a href="https://github.com/Lerato-25/StudentEnrollmentSystem" target="_blank">View my project</a>
+
 - Designed structured relational database tables  
 - Implemented CRUD operations using SQL  
 - Ensured data validation and integrity  
