@@ -35,7 +35,7 @@ Motivated final year Information and Communication Technology student with stron
 ---
 
 ## 🎥 Mock Interview Video  
-👉 [ Watch the video ] https://1drv.ms/v/c/868a081ec06bc39f/IQD2bZ2uCh4rSqSWtTo6MSFbAacNGlzyhlOhq7_lzNuJv7Y) 
+👉 [ Watch the video ]https://1drv.ms/v/c/868a081ec06bc39f/IQD2bZ2uCh4rSqSWtTo6MSFbAacNGlzyhlOhq7_lzNuJv7Y) 
 
 ---
 
