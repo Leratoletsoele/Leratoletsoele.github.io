@@ -35,7 +35,8 @@ Motivated final year Information and Communication Technology student with stron
 ---
 
 ## 🎥 Mock Interview Video  
-👉 [ Watch the video ] https://1drv.ms/v/c/868a081ec06bc39f/IQD2bZ2uCh4rSqSWtTo6MSFbAacNGlzyhlOhq7_lzNuJv7Y)
+👉 [ Watch the video ] https://1drv.ms/v/c/868a081ec06bc39f/IQD2bZ2uCh4rSqSWtTo6MSFbAacNGlzyhlOhq7_lzNuJv7Y) 
+
 ---
 
 ## 🎓 Education
@@ -54,7 +55,7 @@ National Senior Certificate
 
 During my studies, I applied theoretical knowledge such as database design and object oriented programming in practical projects like the Student Enrollment System.  
 
-This experience improved my **problem-solving skills**, **technical confidence**, and **ability to learn independently**. I also developed self-awareness by identifying areas I need to improve, such as advanced database optimization and software testing.  
+This experience improved my problem solving skills,technical confidence and ability to learn independently.I also developed self awareness by identifying areas I need to improve, such as advanced database optimization and software testing.  
 
 I am continuously working on improving my skills and becoming a well rounded IT professional.
 
