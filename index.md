@@ -31,7 +31,7 @@ Motivated final year Information and Communication Technology student with stron
 - Ensured data validation and integrity  
 - Integrated Java with MySQL using JDBC  
 
----
+
 
 ## 🎥 Mock Interview Video  
 
