@@ -6,7 +6,7 @@
 
 
 ## Professional Profile  
-Motivated and detail-oriented final-year Information and Communication Technology student with a strong foundation in software development and data analysis. Passionate about building efficient, data-driven systems and solving real-world problems through technology.  
+Motivated and detail oriented final-year Information and Communication Technology student with a strong foundation in software development and data analysis. Passionate about building efficient, data driven systems and solving real world problems through technology.  
 
 I am eager to apply my technical and analytical skills in a professional environment while continuously learning and growing as an IT professional.  
 
@@ -24,7 +24,7 @@ I am eager to apply my technical and analytical skills in a professional environ
 
 
 ## Mock Interview Video  
-[Watch the video](#)  
+:arrow_forward: [Watch the video](https://1drv.ms/v/c/868a081ec06bc39f/IQD2bZ2uCh4rSqSWtTo6MSFbAacNGlzyhlOhq7_lzNuJv7Y)  
 
 
 
@@ -40,12 +40,12 @@ Completed: 2022
 
 
 
-## Reflective Practice  
-During my academic journey, I have applied theoretical concepts such as database design and object-oriented programming in practical scenarios.  
+## Reflective Practice 
+During my academic journey, I have applied theoretical concepts such as database design and object oriented programming in practical scenarios.  
 
-These experiences strengthened my problem-solving abilities, boosted my technical confidence, and enhanced my capacity for independent learning. I have also developed self-awareness by identifying areas for improvement, including advanced database optimization and software testing.  
+These experiences strengthened my problem solving abilities, boosted my technical confidence, and enhanced my capacity for independent learning. I have also developed self awareness by identifying areas for improvement, including advanced database optimization and software testing.  
 
-I am committed to continuous learning and strive to become a well-rounded and impactful IT professional.  
+I am committed to continuous learning and strive to become a well rounded and impactful IT professional.  
 
 
 
