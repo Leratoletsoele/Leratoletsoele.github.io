@@ -1,4 +1,4 @@
-# Lerato Letsoele  
+# 👩‍💻 Lerato Letsoele  
 **Final-Year ICT Student**  
 
 **Email:** 222381582@mycput.ac.za  
