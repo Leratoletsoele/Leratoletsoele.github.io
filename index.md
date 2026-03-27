@@ -24,7 +24,7 @@ I am eager to apply my technical and analytical skills in a professional environ
 
 
 ## Mock Interview Video  
-:arrow_forward: [Watch the video](https://1drv.ms/v/c/868a081ec06bc39f/IQD2bZ2uCh4rSqSWtTo6MSFbAacNGlzyhlOhq7_lzNuJv7Y)  
+▶️ [Watch the video](https://1drv.ms/v/c/868a081ec06bc39f/IQD2bZ2uCh4rSqSWtTo6MSFbAacNGlzyhlOhq7_lzNuJv7Y)  
 
 
 
