@@ -13,7 +13,7 @@ Motivated and detail oriented final year Information and Communications Technolo
 I have developed practical experience in Java programming, SQL databases, Excel, and Power BI through project based learning. I enjoy working with data to extract insights, identify trends, and support problem solving in real world scenarios.
 
 I am seeking an opportunity to apply my analytical, technical, and problem solving skills in a data focused role while continuing to grow as a Data Analyst.
---------
+
 ## Technical Skills  
 
 | Category           | Skills |
