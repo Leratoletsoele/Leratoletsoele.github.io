@@ -52,9 +52,8 @@ Phone: 072 847 1319
 
 ## Watch My Mock Interview Video
 
-<video width="640" height="360" controls>
-  <source src="your-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video width="480" height="270" controls>
+  <source src="Video.mp4" type="video/mp4">
 </video>
 
 
