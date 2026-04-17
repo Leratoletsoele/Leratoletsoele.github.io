@@ -2,7 +2,7 @@
 
 ### Technical Skills: MySQL,Java,Excel,Power BI
 
-![My Profile Image](/img/profile.jpeg)
+![My Profile Image](profile.jpeg)
 
 ---
 ## 📞 References
