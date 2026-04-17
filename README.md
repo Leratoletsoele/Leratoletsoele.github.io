@@ -104,8 +104,7 @@ Completed: 2022
 - **Phone:** 066 103 5462  
  
 ---
-#  References
-
+## References
 ## Miss Nkosi  
 Former Mathematics Teacher - Chief Charles 
 nkosi.thulih@gmail.com 
