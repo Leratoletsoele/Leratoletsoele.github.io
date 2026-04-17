@@ -110,6 +110,7 @@ Completed: 2022
   <source src="Video.mp4" type="video/mp4">
 </video>
 
+
 ## Reflection on Mock Interview using  STAR Method
 
 **Situation:**  
@@ -142,6 +143,7 @@ I successfully deployed my portfolio as a live website, making it easily accessi
 
 
 ---
+
 # Contact Information
 
 - **Email:** 222381582@mycput.ac.za  
