@@ -103,15 +103,11 @@ Completed: 2022
 - **Email:** 222381582@mycput.ac.za  
 - **Phone:** 066 103 5462  
  
-
 ---
-
-##  References
+#  References
 
 ## Miss Nkosi  
 Former Mathematics Teacher - Chief Charles 
-
 nkosi.thulih@gmail.com 
-
 072 847 1319
 
