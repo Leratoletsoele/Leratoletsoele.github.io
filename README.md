@@ -108,5 +108,6 @@ Completed: 2022
 
 **Miss Nkosi**  
 Former Mathematics Teacher - Chief Charles
-nkosi.thulih@gmail.com  
-072 847 1319
+Email: nkosi.thulih@gmail.com  
+Phone: 072 847 1319
+
