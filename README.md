@@ -2,14 +2,13 @@
 
 ### Technical Skills: MySQL,Java,Excel,Power BI
 
-![My Profile Image](/assets/img/WhatsApp Image 2026-04-17 at 03.14.07.jpeg)
+![My Profile Image](/assets/img/profile.jpeg)
 
 ---
-
 ## 📞 References
 
 **Miss Nkosi**  
-Former Mathematics Teacher  
+Former Mathematics Teacher 
 📧 nkosi.thulih@gmail.com   
 📞 072 847 1319
 
