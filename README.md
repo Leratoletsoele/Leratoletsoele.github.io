@@ -2,7 +2,7 @@
 
 ### Technical Skills: MySQL,Java,Excel,Power BI
 
-! [My Profile Image](/assets/img/WhatsApp Image 2026-04-17 at 03.14.07.jpeg)
+![My Profile Image](/assets/img/WhatsApp Image 2026-04-17 at 03.14.07.jpeg)
 
 ---
 
