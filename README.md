@@ -1,4 +1,4 @@
-# Final-Year ICT Student | Aspiring Data Analyst
+## Final-Year ICT Student | Aspiring Data Analyst
 
 ### Technical Skills: MySQL,Java,Excel,Power BI
 
