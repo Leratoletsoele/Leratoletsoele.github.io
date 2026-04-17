@@ -66,7 +66,7 @@ This project improved my understanding of backend development, database integrat
 This was a group project aimed at developing a learning platform for matric learners to access educational resources.
 
 ### My Contribution:
-- Developed the **Tutor Profile Module**
+- Developed the Tutor Profile Page
 
 ### Responsibilities:
 - Designed functionality to display tutor profiles  
@@ -108,6 +108,5 @@ Completed: 2022
 
 **Miss Nkosi**  
 Former Mathematics Teacher - Chief Charles
-
 nkosi.thulih@gmail.com  
 072 847 1319
