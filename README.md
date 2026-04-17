@@ -107,7 +107,7 @@ Completed: 2022
 ## References
 
 **Miss Nkosi**  
-Former Mathematics Teacher - Chief Charles
+Former Mathematics Teacher - Chief Charles  
 Email: nkosi.thulih@gmail.com  
 Phone: 072 847 1319
 
