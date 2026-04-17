@@ -3,10 +3,7 @@
 ### Technical Skills: MySQL,Java,Excel,Power BI
 
 
-<div style="text-align:left;">
-  <img src="assets/img/profile.jpeg" 
-       style="width:180px;height:180px;border-radius:50%;object-fit:cover;">
-</div>
+
 ---
 ## 📞 References
 
