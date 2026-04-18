@@ -71,9 +71,10 @@ This project improved my understanding of backend development, database integrat
 
 ---
 
-##  Matric Learning Platform (Group Project)
+##  Matric Service Center (roup Project)
 
-**Tools Used:** Java, System Design, Collaborative Development  
+**Tools Used:** Java, System Design, Collaborative Development 
+
 
 This was a group project aimed at developing a learning platform for matric learners to access educational resources.
 
