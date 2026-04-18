@@ -6,7 +6,7 @@
 
 I am a final-year Information and Communications Technology student at Cape Peninsula University of Technology with a strong focus on data analysis, databases, and software development.
 
-I specialize in transforming raw data into meaningful insights using tools such as Excel, SQL, Power BI, and Java. Through academic and project-based experience, I have developed practical skills in data cleaning, database design, and data visualization.
+I specialize in transforming raw data into meaningful insights using tools such as Excel, SQL and Power BI. Through academic and project-based experience, I have developed practical skills in data cleaning, database design, and data visualization.
 
 I have worked on real-world inspired projects including healthcare patient data analysis, a student management system, and a collaborative learning platform where I contributed to tutor profile functionality.
 
@@ -110,6 +110,7 @@ Completed: 2022
   <source src="Video.mp4" type="video/mp4">
 </video>
 
+---
 
 ## Reflection on Mock Interview using  STAR Method
 
