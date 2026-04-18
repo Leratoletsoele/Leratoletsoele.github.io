@@ -42,7 +42,7 @@ This project strengthened my ability to analyze healthcare datasets and extract 
 **Tools Used:** Java, MySQL, JDBC  
 
 ## Preview 
-![System](SignIn.jpeg)
+![SignIn.jpeg](SignIn.jpeg)
 
 
 **GitHub Repository:** https://github.com/Leratoletsoele/StudentEnrollmentSystem.git
