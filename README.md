@@ -79,6 +79,8 @@ This project improved my understanding of backend development, database integrat
 ##  Preview 
 ![Matric Service Center](assets/img/matricservicecenter.jpeg)
 
+**GitHub Repository:**  https://github.com/Lerato-25/PROJECTS-2-2025
+
 This was a group project aimed at developing a learning platform for matric learners to access educational resources.
 
 ### My Contribution:
