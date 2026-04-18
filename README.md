@@ -71,12 +71,12 @@ This project improved my understanding of backend development, database integrat
 
 ---
 
-##  Matric Service Center (roup Project)
+##  Matric Service Center (Group Project)
 
 **Tools Used:** Java, System Design, Collaborative Development
 
 
-## Matric Service Center Preview 
+##  Preview 
 ![Matric Service Center](assets/img/matricservicecenter.jpeg)
 
 This was a group project aimed at developing a learning platform for matric learners to access educational resources.
