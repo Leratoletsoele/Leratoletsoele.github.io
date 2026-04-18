@@ -18,7 +18,13 @@ I am actively seeking an opportunity in a Data Analyst or Junior Data role where
 
 ## COVID-19 Hospital Data Analysis (Excel Project)
 
-**Tools Used:** Microsoft Excel, Pivot Tables, Charts, Data Cleaning  
+**Tools Used:** Microsoft Excel, Pivot Tables, Charts, Data Cleaning 
+
+## Dasboard Preview 
+![Dashboard](https://raw.githubusercontent.com/Leratoletsoele/Covid19-data-analysis-excel/main/Dashboardd.jpeg)
+
+
+**GitHub Repository:**
 
 This project involved analyzing a large dataset of hospital patient records affected by COVID-19.
 
@@ -45,7 +51,7 @@ This project strengthened my ability to analyze healthcare datasets and extract 
 ![Student Enrollment System](https://raw.githubusercontent.com/Leratoletsoele/StudentEnrollmentSystem/main/SignIn.jpeg)
 
 
-**GitHub Repository:** https://github.com/Leratoletsoele/StudentEnrollmentSystem.git
+**GitHub Repository:**  https://github.com/Leratoletsoele/StudentEnrollmentSystem.git
 
 This project involved the development of a database driven application for managing student records.
 
@@ -98,7 +104,7 @@ Through this process, I developed a strong understanding of Markdown as a tool f
 
 ---
 
-#  Education
+## Education
 
 ## Cape Peninsula University of Technology  
 Diploma in Information and Communications Technology (Final Year)  
@@ -153,7 +159,7 @@ I successfully deployed my portfolio as a live website, making it easily accessi
 
 ---
 
-# Contact Information
+## Contact Information
 
 - **Email:** 222381582@mycput.ac.za  
 - **Phone:** 066 103 5462  
