@@ -43,7 +43,7 @@ This project strengthened my ability to analyze healthcare datasets and extract 
 
 ---
 
-##  Student Management System (Java + MySQL + JDBC)
+##  Student Management System (Java , MySQL and JDBC)
 
 **Tools Used:** Java, MySQL, JDBC  
 
