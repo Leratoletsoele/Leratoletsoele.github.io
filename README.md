@@ -20,11 +20,11 @@ I am actively seeking an opportunity in a Data Analyst or Junior Data role where
 
 **Tools Used:** Microsoft Excel, Pivot Tables, Charts, Data Cleaning 
 
-## Dasboard Preview 
+## Dashboard Preview 
 ![Dashboard](https://raw.githubusercontent.com/Leratoletsoele/Covid19-data-analysis-excel/main/Dashboardd.jpeg)
 
 
-**GitHub Repository:**
+**GitHub Repository:**  https://github.com/Leratoletsoele/Covid19-data-analysis-excel
 
 This project involved analyzing a large dataset of hospital patient records affected by COVID-19.
 
@@ -51,7 +51,7 @@ This project strengthened my ability to analyze healthcare datasets and extract 
 ![Student Enrollment System](https://raw.githubusercontent.com/Leratoletsoele/StudentEnrollmentSystem/main/SignIn.jpeg)
 
 
-**GitHub Repository:**  https://github.com/Leratoletsoele/StudentEnrollmentSystem.git
+**GitHub Repository:**  https://github.com/Leratoletsoele/StudentEnrollmentSystem
 
 This project involved the development of a database driven application for managing student records.
 
