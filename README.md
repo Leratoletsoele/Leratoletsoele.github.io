@@ -41,7 +41,13 @@ This project strengthened my ability to analyze healthcare datasets and extract 
 
 **Tools Used:** Java, MySQL, JDBC  
 
-This project involved the development of a database-driven application for managing student records.
+## Preview 
+![System](SignIn.jpeg)
+
+
+**GitHub Repository:** https://github.com/Leratoletsoele/StudentEnrollmentSystem.git
+
+This project involved the development of a database driven application for managing student records.
 
 ### Responsibilities:
 - Designed and implemented a relational database using MySQL  
