@@ -14,102 +14,6 @@ I am actively seeking an opportunity in a Data Analyst or Junior Data role where
 
 ---
 
-# Projects
-
-## COVID-19 Hospital Data Analysis (Excel Project)
-
-**Tools Used:** Microsoft Excel, Pivot Tables, Charts, Data Cleaning 
-
-## Dashboard Preview 
-![Dashboard](https://raw.githubusercontent.com/Leratoletsoele/Covid19-data-analysis-excel/main/Dashboardd.jpeg)
-
-
-**GitHub Repository:**  https://github.com/Leratoletsoele/Covid19-data-analysis-excel
-
-This project involved analyzing a large dataset of hospital patient records affected by COVID-19.
-
-### Responsibilities:
-- Cleaned and structured raw patient data including age, severity, oxygen levels, ICU status and comorbidities  
-- Performed exploratory data analysis using Excel Pivot Tables  
-- Created visualizations to identify patterns in patient outcomes  
-
-### Key Insights:
-- Patients with severe and critical conditions had higher ICU admission rates  
-- Comorbidities such as diabetes and heart disease influenced recovery outcomes  
-- Differences in recovery rates were observed across provinces  
-
-**Outcome:**  
-This project strengthened my ability to analyze healthcare datasets and extract meaningful insights to support data driven conclusions.
-
----
-
-##  Student Management System (Java , MySQL and JDBC)
-
-**Tools Used:** Java, MySQL, JDBC  
-
-## System Preview 
-![Student Enrollment System](https://raw.githubusercontent.com/Leratoletsoele/StudentEnrollmentSystem/main/SignIn.jpeg)
-
-
-**GitHub Repository:**  https://github.com/Leratoletsoele/StudentEnrollmentSystem
-
-This project involved the development of a database driven application for managing student records.
-
-### Responsibilities:
-- Designed and implemented a relational database using MySQL  
-- Developed a Java application connected to the database using JDBC  
-- Implemented full CRUD functionality (Create, Read, Update, Delete)  
-
-### Key Features:
-- Add new student records  
-- Update existing student information  
-- Retrieve student data from the database  
-- Delete records securely  
-
-**Outcome:**  
-This project improved my understanding of backend development, database integration and object oriented programming principles.
-
----
-
-##  Matric Service Center (Group Project)
-
-**Tools Used:** Java, System Design, Collaborative Development
-
-
-##  Preview 
-![Matric Service Center](assets/img/matricservicecenter.jpeg)
-
-**GitHub Repository:**  https://github.com/Lerato-25/PROJECTS-2-2025
-
-This was a group project aimed at developing a learning platform for matric learners to access educational resources.
-
-### My Contribution:
-- Developed the Tutor Profile Page
-
-### Responsibilities:
-- Designed functionality to display tutor profiles  
-- Enabled booking functionality for students  
-- Displayed tutor subjects, availability and reviews  
-
-**Outcome:**  
-This project improved my teamwork, communication and system design skills while working in a collaborative environment.
-
-## Reflection on Coding in Markdown using STAR Method
-
-**Situation:**  
-As part of developing my digital portfolio, I was required to use Markdown within GitHub to structure and present my CV, projects and supporting evidence in a clear and professional format.
-
-**Task:**  
-My task was to learn and apply Markdown syntax effectively in order to organise my portfolio content in a way that is both visually appealing and easy to navigate, while maintaining a professional standard suitable for potential employers.
-
-**Action:**  
-I explored Markdown documentation and practiced using various formatting elements such as headings, lists, hyperlinks and embedded media. I applied these techniques to structure my portfolio into clear sections, ensuring consistency and readability throughout. I also focused on presenting my projects and skills in a logical flow, making it easier for viewers to understand my experience and capabilities.
-
-**Result:**  
-Through this process, I developed a strong understanding of Markdown as a tool for technical communication. I improved my ability to present information in a structured and professional manner, which is an essential skill in the ICT field. This experience has also prepared me to use Markdown in real world environments such as GitHub documentation, project repositories and collaborative development work.
-
----
-
 # Education
 
 ## Cape Peninsula University of Technology  
@@ -162,6 +66,21 @@ I configured my GitHub repository by enabling GitHub Pages and selecting the app
 **Result:**  
 I successfully deployed my portfolio as a live website, making it easily accessible to lecturers and potential employers. This experience enhanced my understanding of web deployment and version control using GitHub. It also provided me with a professional platform to showcase my skills and projects, increasing my readiness for real-world industry expectations.
 
+
+---
+## Reflection on README Development using STAR Method
+
+**Situation:**  
+As part of building my digital portfolio, I was required to create a professional README file to present my profile, technical skills, projects and overall personal brand on GitHub.
+
+**Task:**  
+My task was to design and structure a clear, informative and visually appealing README that effectively communicates my strengths and  technical skills to potential employers and collaborators.
+
+**Action:**  
+I structured my README into well-organized sections including my profile summary, technical skills, education and reflections. I used Markdown formatting such as headings, spacing and emphasis to improve readability and presentation. I ensured that the content was concise, professional and aligned with my career goals as an aspiring data analyst. I also reviewed and refined the content to improve clarity and ensure consistency throughout the document.
+
+**Result:**  
+Creating the README improved my ability to present myself professionally in an online environment. I gained a better understanding of how to structure and communicate technical information effectively. The final README serves as a strong personal profile that highlights my skills, projects and career aspirations, contributing positively to my digital presence and employability.
 
 ---
 
