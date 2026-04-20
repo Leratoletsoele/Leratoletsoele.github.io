@@ -48,7 +48,7 @@ My responsibility was to demonstrate my technical competencies, effectively comm
 To prepare, I researched common interview questions and practiced structuring my responses using clear and logical explanations. I focused on aligning my answers with my knowledge in data analysis, Java development and database management. During the interview, I maintained professionalism by communicating clearly, staying composed and ensuring that my responses were relevant and supported by appropriate examples. I also made a conscious effort to highlight my problem-solving abilities and my understanding of data-driven decision making.
 
 **Result:**  
-The mock interview was a valuable learning experience that enhanced both my communication and self-presentation skills. It helped me recognise the importance of structuring responses and confidently linking theoretical knowledge to practical application. I identified areas for improvement, such as refining the clarity and conciseness of my answers under pressure. Overall, the experience increased my confidence and better prepared me for real-world interviews, equipping me with the ability to present myself as a competent and work-ready candidate.
+The mock interview was a valuable learning experience that enhanced both my communication and self-presentation skills. It helped me recognise the importance of structuring responses and confidently linking theoretical knowledge to practical application. I identified areas for improvement, such as refining the clarity and conciseness of my answers under pressure. Overall, the experience increased my confidence and better prepared me for real-world interviews, equipping me with the ability to present myself as a competent and work ready candidate.
 
 ---
 
