@@ -88,10 +88,8 @@ I successfully deployed my portfolio as a live website, making it easily accessi
 **Situation:**  
 As part of building my digital portfolio, I was required to create and structure a professional GitHub portfolio using Markdown to present my profile, technical skills, projects and reflections in a clear and organised manner.
 
-
 **Task:**  
 My task was to learn and apply Markdown formatting to design a professional, well-structured and visually clear portfolio that effectively communicates my strengths, technical skills and career goals to lecturers and potential employers.
-
 
 **Action:**  
 I organised my portfolio into clearly structured sections, including my profile summary, technical skills, education, projects and reflections. I used Markdown formatting features such as headings, spacing, emphasis and hyperlinks to improve readability and presentation. I reviewed and refined the structure to ensure consistency, professionalism and clarity throughout the portfolio.
