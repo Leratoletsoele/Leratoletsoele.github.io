@@ -25,7 +25,23 @@ National Senior Certificate
 Completed: 2022  
 
 ---
-# Projects 
+## Projects
+
+### COVID-19 Hospital Data Analysis
+
+[View Project Repository](https://github.com/Leratoletsoele/Covid19-data-analysis-excel)
+
+## Project Overview
+This project focuses on analysing COVID-19 hospital patient data using Microsoft Excel and Power BI .The aim was to identify trends, patterns and relationships within the dataset to support data-driven insights.
+
+### Student Enrollment System
+
+[View Project Repository](https://github.com/Leratoletsoele/StudentEnrollmentSystem)
+
+## Project Overview 
+This project is a Java based Student Enrollment System that uses MySQL as the database and JDBC for connectivity. The system allows users to manage student records efficiently through a simple application.
+<img width="468" height="293" alt="image" src="https://github.com/user-attachments/assets/f195c7ff-0211-4474-b1e1-17e8086e4b14" />
+
 ---
 
 ## Watch My Mock Interview Video
@@ -38,7 +54,7 @@ Completed: 2022
 
 ---
 
-## Reflection on Mock Interview using STAR Method
+## Reflection on Coding in Markdown  using STAR Method
 
 **Situation:**  
 As part of the Work Readiness programme, I participated in a mock interview designed to simulate a real-world recruitment process for a Data Analyst or entry-level ICT role. The purpose was to assess my ability to present myself professionally and apply my knowledge in an interview setting.
