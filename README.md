@@ -28,12 +28,14 @@ Completed: 2022
 ## Projects
 
 ### COVID-19 Hospital Data Analysis
+
 [View Project Repository](https://github.com/Leratoletsoele/Covid19-data-analysis-excel)
 
 ## Project Overview
 This project focuses on analysing COVID-19 hospital patient data using Microsoft Excel and Power BI .The aim was to identify trends, patterns and relationships within the dataset to support data-driven insights.
 
 ### Student Enrollment System
+
 [View Project Repository](https://github.com/Leratoletsoele/StudentEnrollmentSystem)
 
 ## Project Overview 
