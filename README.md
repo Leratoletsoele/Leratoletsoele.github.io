@@ -16,7 +16,7 @@ I am detail-oriented, analytical and committed to continuous learning. I am acti
 
 ## Education
 
-## Cape Peninsula University of Technology  
+### Cape Peninsula University of Technology  
 Diploma in Information and Communications Technology (Final Year)  
 2024 – 2026  
 
