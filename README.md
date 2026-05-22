@@ -14,25 +14,25 @@ I am detail-oriented, analytical and committed to continuous learning. I am acti
 
 ---
 
-# Education
+## Education
 
-## Cape Peninsula University of Technology  
+# Cape Peninsula University of Technology  
 Diploma in Information and Communications Technology (Final Year)  
 2024 – 2026  
 
-## Chief Charles Secondary School  
+# Chief Charles Secondary School  
 National Senior Certificate  
 Completed: 2022  
 
 ---
-# Projects
+## Projects
 
-## COVID-19 Hospital Data Analysis
+# COVID-19 Hospital Data Analysis
 
 [View Project Repository](https://github.com/Leratoletsoele/Covid19-data-analysis-excel)
 
 ## Project Overview
-This project focuses on analysing COVID-19 hospital patient data using Microsoft Excel and Power BI .The aim was to identify trends, patterns and relationships within the dataset to support data-driven insights.
+This project focuses on analysing COVID-19 hospital patient data using Microsoft Excel and Power BI. The aim was to identify trends, patterns and relationships within the dataset to support data-driven insights.
 
 ## Student Enrollment System
 
@@ -83,19 +83,21 @@ I successfully deployed my portfolio as a live website, making it easily accessi
 
 ---
 
-## Reflection on README Development using STAR Method
+## Reflection on Coding in Markdown using STAR Method
 
 **Situation:**  
-As part of building my digital portfolio, I was required to create a professional README file to present my profile, technical skills and overall personal brand on GitHub.
+As part of building my digital portfolio, I was required to create and structure a professional GitHub portfolio using Markdown to present my profile, technical skills, projects and reflections in a clear and organised manner.
+
 
 **Task:**  
-My task was to design and structure a clear, informative and visually appealing README that effectively communicates my strengths and technical skills to potential employers and collaborators.
+My task was to learn and apply Markdown formatting to design a professional, well-structured and visually clear portfolio that effectively communicates my strengths, technical skills and career goals to lecturers and potential employers.
+
 
 **Action:**  
-I structured my README into well-organized sections including my profile summary, technical skills, education and reflections. I used Markdown formatting such as headings, spacing and emphasis to improve readability and presentation. I ensured that the content was concise, professional and aligned with my career goals as an aspiring data analyst. I also reviewed and refined the content to improve clarity and ensure consistency throughout the document.
+I organised my portfolio into clearly structured sections, including my profile summary, technical skills, education, projects and reflections. I used Markdown formatting features such as headings, spacing, emphasis and hyperlinks to improve readability and presentation. I reviewed and refined the structure to ensure consistency, professionalism and clarity throughout the portfolio.
 
 **Result:**  
-Creating the README improved my ability to present myself professionally in an online environment. I gained a better understanding of how to structure and communicate technical information effectively. The final README serves as a strong personal profile that highlights my skills and career aspirations, contributing positively to my digital presence and employability.
+Coding my portfolio in Markdown improved my understanding of technical documentation and digital presentation. I gained practical experience in organising and communicating information clearly using GitHub and learned how effective formatting improves readability and professionalism. This experience strengthened both my technical skills and my readiness to present myself professionally in a digital environment.
 
 ---
 
