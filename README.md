@@ -16,29 +16,29 @@ I am detail-oriented, analytical and committed to continuous learning. I am acti
 
 ## Education
 
-# Cape Peninsula University of Technology  
+## Cape Peninsula University of Technology  
 Diploma in Information and Communications Technology (Final Year)  
 2024 – 2026  
 
-# Chief Charles Secondary School  
+### Chief Charles Secondary School  
 National Senior Certificate  
 Completed: 2022  
 
 ---
 ## Projects
 
-# COVID-19 Hospital Data Analysis
+### COVID-19 Hospital Data Analysis
 
 [View Project Repository](https://github.com/Leratoletsoele/Covid19-data-analysis-excel)
 
-## Project Overview
+### Project Overview
 This project focuses on analysing COVID-19 hospital patient data using Microsoft Excel and Power BI. The aim was to identify trends, patterns and relationships within the dataset to support data-driven insights.
 
-## Student Enrollment System
+### Student Enrollment System
 
 [View Project Repository](https://github.com/Leratoletsoele/StudentEnrollmentSystem)
 
-## Project Overview 
+### Project Overview 
 This project is a Java based Student Enrollment System that uses MySQL as the database and JDBC for connectivity. The system allows users to manage student records efficiently through a simple application.
 
 ---
