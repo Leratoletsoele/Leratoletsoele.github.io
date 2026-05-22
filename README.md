@@ -25,6 +25,8 @@ National Senior Certificate
 Completed: 2022  
 
 ---
+# Projects 
+---
 
 ## Watch My Mock Interview Video
 
