@@ -25,7 +25,7 @@ National Senior Certificate
 Completed: 2022  
 
 ---
-## Projects
+# Projects
 
 ### COVID-19 Hospital Data Analysis
 
@@ -40,10 +40,9 @@ This project focuses on analysing COVID-19 hospital patient data using Microsoft
 
 ## Project Overview 
 This project is a Java based Student Enrollment System that uses MySQL as the database and JDBC for connectivity. The system allows users to manage student records efficiently through a simple application.
+
 ---
-
 ## Watch My Mock Interview Video
-
 ---
 
 <video width="480" height="270" controls>
@@ -52,7 +51,7 @@ This project is a Java based Student Enrollment System that uses MySQL as the da
 
 ---
 
-## Reflection on Coding in Markdown  using STAR Method
+## Reflection on Mock Interview using STAR Method
 
 **Situation:**  
 As part of the Work Readiness programme, I participated in a mock interview designed to simulate a real-world recruitment process for a Data Analyst or entry-level ICT role. The purpose was to assess my ability to present myself professionally and apply my knowledge in an interview setting.
