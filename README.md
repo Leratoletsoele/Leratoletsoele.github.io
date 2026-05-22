@@ -40,7 +40,6 @@ This project focuses on analysing COVID-19 hospital patient data using Microsoft
 
 ## Project Overview 
 This project is a Java based Student Enrollment System that uses MySQL as the database and JDBC for connectivity. The system allows users to manage student records efficiently through a simple application.
-
 ---
 
 ## Watch My Mock Interview Video
@@ -108,6 +107,4 @@ Creating the README improved my ability to present myself professionally in an o
 
 ---
 
-## References
 
-Available upon request.
