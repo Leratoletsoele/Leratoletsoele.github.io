@@ -5,7 +5,7 @@
 
 The sprint backlog is a collection of features and tasks selected for a sprint. It helps the team organise the work that needs to be completed during a development period and monitor progress towards the sprint goal.
 
-For GoClean, our Trello board separates planned features into Sprint 1, Sprint 2 and Sprint 3. These lists organise the proposed customer journey, from accessing the platform to placing and tracking laundry orders and managing customer accounts.
+For GoClean, our Trello board separates planned features into Sprint 1, Sprint 2,Sprint 3 till Sprint 16. These lists organise the proposed customer journey, from accessing the platform to placing and tracking laundry orders and managing customer accounts.
 
 The sprint backlog describes the work planned for the proposed GoClean platform. Features listed in a sprint are not necessarily completed, implemented or tested.
 
