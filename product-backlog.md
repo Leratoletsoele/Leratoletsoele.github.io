@@ -80,7 +80,6 @@ Our Trello board displays the product backlog and separate sprint lists. It prov
 
 ![GoClean Trello board](assets/img/goclean-trello-board.png)
 
-**Trello board:** https://trello.com/b/Ia2c4Am0/goclean-app
 
 ### Evidence 2: Proposed Customer Journey
 
