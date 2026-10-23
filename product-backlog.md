@@ -10,20 +10,20 @@ Our Trello board contains a product backlog with 24 cards and separate sprint li
 
 | Priority | Backlog item | Description | Reason for priority |
 |---|---|---|---|
-| 1 — High | Customer registration | Allow new customers to create an account. | Needed for customers to access account-based features. |
-| 2 — High | Login page | Allow registered customers to access their accounts securely. | Supports account access and the customer journey. |
-| 3 — High | Home page | Provide an entry point to the GoClean service. | Helps customers navigate the proposed platform. |
-| 4 — High | Order page (booking) | Allow customers to provide basket-size and pickup details. | Booking is central to the laundry service. |
-| 5 — High | Order confirmation screen | Inform customers that a booking has been submitted. | Provides feedback after a booking attempt. |
-| 6 — High | Order tracking page | Show customers the progress of an order. | Supports communication and order visibility. |
-| 7 — Medium | Order history page | Let customers review previous orders. | Supports returning customers. |
-| 8 — Medium | User profile/settings page | Let customers view and manage profile information. | Supports account management. |
-| 9 — Medium | Notifications system | Communicate relevant order information to customers. | Helps keep customers informed. |
-| 10 — Medium | Driver assignment | Organise assignment of deliveries to drivers. | Supports the proposed pickup and delivery process. |
-| 11 — Medium | Payments | Support the proposed payment process. | Relates to paying for the service. |
-| 12 — Supporting | Marketing strategy | Plan how GoClean will reach its target customers. | Supports awareness and customer acquisition. |
-| 13 — Supporting | Feasibility and business plan | Document the business concept and its feasibility. | Helps assess the practicality of the proposed service. |
-| 14 — Supporting | Legal and terms of service | Identify terms and legal considerations for the service. | Helps define the conditions under which the service operates. |
+| 1. High | Customer registration | Allow new customers to create an account. | Needed for customers to access account-based features. |
+| 2. High | Login page | Allow registered customers to access their accounts securely. | Supports account access and the customer journey. |
+| 3. High | Home page | Provide an entry point to the GoClean service. | Helps customers navigate the proposed platform. |
+| 4. High | Order page (booking) | Allow customers to provide basket-size and pickup details. | Booking is central to the laundry service. |
+| 5. High | Order confirmation screen | Inform customers that a booking has been submitted. | Provides feedback after a booking attempt. |
+| 6. High | Order tracking page | Show customers the progress of an order. | Supports communication and order visibility. |
+| 7. Medium | Order history page | Let customers review previous orders. | Supports returning customers. |
+| 8. Medium | User profile/settings page | Let customers view and manage profile information. | Supports account management. |
+| 9. Medium | Notifications system | Communicate relevant order information to customers. | Helps keep customers informed. |
+| 10. Medium | Driver assignment | Organise assignment of deliveries to drivers. | Supports the proposed pickup and delivery process. |
+| 11. Medium | Payments | Support the proposed payment process. | Relates to paying for the service. |
+| 12. Supporting | Marketing strategy | Plan how GoClean will reach its target customers. | Supports awareness and customer acquisition. |
+| 13. Supporting | Feasibility and business plan | Document the business concept and its feasibility. | Helps assess the practicality of the proposed service. |
+| 14. Supporting | Legal and terms of service | Identify terms and legal considerations for the service. | Helps define the conditions under which the service operates. |
 
 The priority levels above are our proposed ordering based on the intended customer journey. They are not a claim that these exact rankings appear on Trello. Our Trello board remains the record of the backlog cards and sprint organisation maintained by our team.
 
