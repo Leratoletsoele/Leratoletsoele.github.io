@@ -217,30 +217,16 @@ Overall, this activity helped me understand how user stories, tasks, acceptance 
 
 ## 5. Supporting Evidence
 
-The following evidence supports our user stories, task organisation and proposed application design.
+The following evidence supports our user stories, task organisation and proposed application design. Screenshots of the Login Page and Order Page (Booking) task breakdowns are included alongside their relevant user stories above to avoid unnecessary repetition.
 
-### Evidence 1: Login Page Task Breakdown
+### Evidence 1: Trello Board and Sprint Lists
 
-Our Trello Login Page card records five completed subtasks covering the login screen, credential storage, login API, error handling and documentation. It demonstrates how the team has broken down the login feature into smaller tasks.
-
-![GoClean Login Page tasks](assets/img/login-page-tasks.png)
-
-### Evidence 2: Order Page (Booking) Task Breakdown
-
-Our Trello Order Page (Booking) card shows five completed subtasks and 100% checklist progress. The checklist identifies the team members responsible for the recorded tasks and illustrates how the proposed booking feature was organised.
-
-The screenshot provides evidence of recorded task completion on Trello; it does not, on its own, verify that the booking functionality has been fully implemented and tested.
-
-![GoClean Order Page Booking tasks](assets/img/order-page-booking.png)
-
-### Evidence 3: Trello Board and Sprint Lists
-
-Our Trello board shows how proposed application features are organised into the product backlog and sprint lists. This supports our explanation of how the team structures and tracks planned work.
+Our Trello board shows how the proposed application features are organised into the product backlog and sprint lists. It supports our explanation of how the team structures and tracks planned work.
 
 ![GoClean Trello board](assets/img/goclean-trello-board.png)
 
-### Evidence 4: Proposed Application Wireframes
+### Evidence 2: Proposed Application Wireframes
 
-The wireframes illustrate the proposed screens that support the customer journey. They provide design evidence for the planned platform and help communicate the intended user experience.
+The GoClean wireframes illustrate the proposed application screens and intended customer journey. They provide design evidence for the planned platform rather than proof that all screens have been implemented.
 
 ![GoClean wireframes](assets/img/goclean-wireframes.png)
