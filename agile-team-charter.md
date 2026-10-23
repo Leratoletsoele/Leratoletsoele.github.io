@@ -89,22 +89,22 @@ I have also learned that clear documentation is important when working in a team
 
 Our target-market material identifies the intended customers for GoClean and helps explain the needs our proposed service aims to address.
 
-![GoClean target market](assets/images/target-market.png)
+![GoClean target market](assets/img/target-market.png)
 
 ### Evidence 2: GoClean Wireframes
 
 Our wireframes illustrate the proposed application screens and the customer journey through the platform.
 
-![GoClean wireframes](assets/images/goclean-wireframes.png)
+![GoClean wireframes](assets/img/goclean-wireframes.png)
 
 ### Evidence 3: Trello Board
 
 Our Trello board shows the product backlog and sprint lists used to organise project features and tasks.
 
-![GoClean Trello board](assets/images/goclean-trello-board.png)
+![GoClean Trello board](assets/img/goclean-trello-board.png)
 
 ### Evidence 4: Login Page Tasks
 
 The Login Page card shows five completed subtasks and a 100% checklist. It provides evidence of task breakdown and recorded progress.
 
-![GoClean Login Page tasks](assets/images/login-page-tasks.png)
+![GoClean Login Page tasks](assets/img/login-page-tasks.png)
