@@ -110,5 +110,6 @@ The card appears in the Product Backlog on Trello, so it demonstrates task organ
 
 The GoClean Trello board is used to group proposed features into sprint lists. These lists help the team organise work around sprint goals and review the tasks associated with the proposed customer journey.
 
+**Trello board:** https://trello.com/b/Ia2c4Am0/goclean-app
 
 The board should be reviewed alongside the sprint goals and planned tasks described in this section to understand how the work is organised.
