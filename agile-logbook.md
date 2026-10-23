@@ -1,3 +1,4 @@
+
 # GoClean — Agile Logbook
 
 ## 1. Introduction
@@ -28,7 +29,7 @@ For GoClean, this logbook records the project's development, from the initial id
 
 ## 3. Meetings and Team Communication
 
-Our team used formal and informal meetings to discuss the project and its direction. These discussions supported communication and decision-making as the GoClean concept developed.
+Our team needed to communicate about the project idea, its direction, the organisation of tasks and the preparation of project documentation. These discussions and planning activities were important to the development of the GoClean concept.
 
 A complete record of meeting dates, attendance and detailed minutes was not available when this logbook was prepared. Therefore, specific meeting dates and daily stand-ups are not presented as confirmed events.
 
@@ -52,20 +53,9 @@ I would improve our process by recording meeting dates and outcomes more consist
 
 ## 6. Supporting Evidence
 
-### Evidence 1: GoClean Trello Board
+### Evidence 1: Lecturer Feedback and Project Pivot
 
-The board shows how the team organised the product backlog and sprint lists.
+This evidence shows the original healthcare project idea and the feedback that informed the team's decision to explore GoClean as a more feasible project concept. It supports the reflection on adapting the project direction in response to feedback and practical constraints.
 
-![GoClean Trello board](assets/img/goclean-trello-board.png)
+![Lecturer feedback and GoClean project pivot](assets/img/lecturer-feedback-pivot.png)
 
-### Evidence 2: Login Page Tasks
-
-The Login Page card shows five subtasks and a checklist completion rate of 100% for that card.
-
-![GoClean Login Page tasks](assets/img/login-page-tasks.png)
-
-### Evidence 3: Proposed Application Wireframes
-
-The wireframes show the planned screens that informed the proposed customer journey and backlog features.
-
-![GoClean wireframes](assets/img/goclean-wireframes.png)
