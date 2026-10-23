@@ -4,13 +4,17 @@
 
 User stories describe the features of GoClean from the perspective of the people who may use the service. They help our team understand customer needs and organise the work required to support those needs.
 
-We used our proposed digital platform features and Trello board to identify user stories and break them down into smaller tasks. The stories below describe the intended functionality; they do not imply that every feature has been implemented or tested.
+We used our proposed digital platform features and Trello board to identify user stories and break them down into smaller tasks. Each story explains what a potential customer wants to achieve and why the feature would be useful.
+
+The stories and acceptance criteria below describe the intended functionality of the proposed GoClean platform. They do not imply that every feature has been implemented or tested.
 
 ## 2. User Stories and Tasks
 
 ### User Story 1: Customer Login
 
-**User story:** As a registered customer, I want to log in securely so that I can access my GoClean account.
+**User story:**
+
+As a registered customer, I want to log in securely so that I can access my GoClean account.
 
 **Tasks recorded on our Trello Login Page card:**
 
@@ -27,13 +31,17 @@ We used our proposed digital platform features and Trello board to identify user
 - Invalid login attempts receive a clear error message.
 - Customer credentials are handled securely.
 
-**Evidence:** Our Trello Login Page card shows five completed subtasks and 100% checklist progress.
+**Evidence:**
+
+Our Trello Login Page card shows five completed subtasks and 100% checklist progress. This demonstrates the recorded completion of the checklist, although further implementation and testing evidence would be needed to verify that the feature works as intended.
 
 ![GoClean Login Page tasks](assets/img/login-page-tasks.png)
 
 ### User Story 2: Customer Registration
 
-**User story:** As a new customer, I want to register for an account so that I can use the proposed GoClean booking service.
+**User story:**
+
+As a new customer, I want to register for an account so that I can use the proposed GoClean booking service.
 
 **Tasks:**
 
@@ -48,12 +56,19 @@ We used our proposed digital platform features and Trello board to identify user
 - A new customer can enter the required registration information.
 - Required fields are validated.
 - The customer receives appropriate feedback when information is missing or invalid.
+- The registration process explains when an account has been created successfully.
+
+**Purpose:**
+
+Registration would allow new customers to create accounts before accessing the proposed booking service. The tasks identify the planning and development work required to support this feature.
 
 ### User Story 3: Laundry Booking
 
-**User story:** As a customer, I want to book a laundry pickup so that I can arrange collection without having to manage the process manually.
+**User story:**
 
-**Tasks recorded on our Trello Order Page card:**
+As a customer, I want to book a laundry pickup so that I can arrange collection without having to manage the process manually.
+
+**Tasks recorded on our Trello Order Page (Booking) card:**
 
 - Design an easy basket-size and pickup-detail selector.
 - Set up orders to be stored with full details.
@@ -67,12 +82,19 @@ We used our proposed digital platform features and Trello board to identify user
 - Required booking information is validated.
 - Customers receive feedback when information is incomplete.
 - A valid booking can be submitted and its details recorded.
+- The booking process communicates whether the submission was successful.
 
-**Evidence:** Our Trello Order Page card contains five subtasks and activity records relating to their completion.
+**Evidence:**
+
+Our Trello Order Page (Booking) card shows five completed subtasks and 100% checklist progress. The tasks are assigned to Solomon Machaule, Lerato Letsoele, Oratilwe Komane, Nomhle Njengele and Thandeka Malande. This demonstrates how the booking feature was divided into manageable tasks and how completion was recorded on Trello. However, checklist completion alone does not independently confirm that the booking functionality has been fully implemented and tested.
+
+![GoClean Order Page Booking tasks](assets/img/order-page-booking.png)
 
 ### User Story 4: Order Confirmation
 
-**User story:** As a customer, I want to receive confirmation after submitting a laundry booking so that I know my request has been received.
+**User story:**
+
+As a customer, I want to receive confirmation after submitting a laundry booking so that I know my request has been received.
 
 **Tasks:**
 
@@ -86,10 +108,17 @@ We used our proposed digital platform features and Trello board to identify user
 - A successful booking displays a confirmation.
 - The confirmation provides relevant order information.
 - The customer can distinguish a successful submission from an unsuccessful one.
+- The confirmation corresponds to the booking that was submitted.
+
+**Purpose:**
+
+Order confirmation would give customers feedback after submitting a booking and help them understand whether their request has been received.
 
 ### User Story 5: Order Tracking
 
-**User story:** As a customer, I want to track my laundry order so that I can understand its progress.
+**User story:**
+
+As a customer, I want to track my laundry order so that I can understand its progress.
 
 **Tasks:**
 
@@ -100,13 +129,20 @@ We used our proposed digital platform features and Trello board to identify user
 
 **Acceptance criteria:**
 
-- Customers can access their order status.
+- Customers can access the status of their relevant order.
 - Status information is clear and understandable.
-- The displayed information corresponds to the relevant order.
+- The displayed information corresponds to the correct order.
+- Customers can distinguish between different stages of the proposed service.
+
+**Purpose:**
+
+Order tracking is intended to improve communication by allowing customers to understand the progress of their laundry orders.
 
 ### User Story 6: Order History
 
-**User story:** As a returning customer, I want to view my previous orders so that I can refer to earlier bookings.
+**User story:**
+
+As a returning customer, I want to view my previous orders so that I can refer to earlier bookings.
 
 **Tasks:**
 
@@ -120,10 +156,17 @@ We used our proposed digital platform features and Trello board to identify user
 - Customers can view their previous orders.
 - Each entry displays relevant order information.
 - The page is organised so customers can distinguish between orders.
+- Customers can identify the details associated with an earlier booking.
+
+**Purpose:**
+
+Order history would help returning customers review their previous bookings without having to enter the information again.
 
 ### User Story 7: Customer Profile and Settings
 
-**User story:** As a customer, I want to manage my profile details so that my account information remains relevant.
+**User story:**
+
+As a customer, I want to manage my profile details so that my account information remains relevant.
 
 **Tasks:**
 
@@ -137,10 +180,15 @@ We used our proposed digital platform features and Trello board to identify user
 - Customers can view their profile information.
 - Editable fields are clearly identified.
 - Invalid information receives appropriate feedback.
+- Customers receive confirmation when profile changes are saved successfully.
+
+**Purpose:**
+
+Profile and settings functionality would allow customers to review and maintain their account details as part of the proposed platform.
 
 ## 3. Prioritisation
 
-We consider account access and booking important because customers need a way to access the service and submit laundry requests. Order confirmation and tracking support communication, while order history and profile settings support continued use.
+We consider account access and laundry booking important because customers need a way to access the proposed service and submit laundry requests. Order confirmation and tracking would support communication, while order history and profile settings would support continued use.
 
 Our proposed priority order is:
 
@@ -151,32 +199,48 @@ Our proposed priority order is:
 5. Order history.
 6. Customer profile and settings.
 
-This is a proposed priority order based on the customer journey. Our Trello product backlog remains the reference for the features and sprint organisation recorded by our team.
+This priority order is based on the proposed customer journey and the importance of providing the main account and booking functions before supporting features.
+
+The priority order is a planning decision for this document. Our Trello product backlog remains the reference for the features and sprint organisation recorded by our team. Priorities may change as the team reviews requirements, feedback and project constraints.
 
 ## 4. Reflection
 
-Developing user stories helped me understand the importance of describing a feature from the customer's perspective rather than focusing only on the technical work. For example, the login story explains why secure account access matters, while its tasks identify the work needed to support that need.
+Developing user stories helped me understand the importance of describing a feature from the customer's perspective rather than focusing only on the technical work. For example, the login story explains why secure account access matters, while its tasks identify the work required to support that need.
 
-The Trello Login Page card demonstrates how a user-facing feature can be broken down into smaller subtasks with assigned responsibilities. This makes work easier to organise and progress easier to review.
+The Login Page and Order Page (Booking) Trello cards demonstrate how features can be divided into smaller subtasks, assigned to team members and tracked through checklists. This makes the work more visible and helps the team understand how individual tasks contribute to a larger feature.
 
-I also learned that acceptance criteria help define what a feature should achieve. They provide a basis for checking whether the completed work meets the intended requirement. Going forward, our team should continue to connect each user story to its Trello tasks and record testing results when testing has actually taken place.
+I also learned that acceptance criteria help define what a feature should achieve. They provide a basis for checking whether completed work meets the intended requirement. More specific acceptance criteria can make it easier to identify what needs to be tested and what evidence is needed to demonstrate that a feature works correctly.
+
+One area for improvement is ensuring that each user story is consistently linked to its corresponding Trello card and that task completion is supported by appropriate implementation or testing evidence. In future, I would encourage the team to record testing outcomes and update task statuses carefully so that planned work, checklist progress and verified functionality are clearly distinguished.
+
+Overall, this activity helped me understand how user stories, tasks, acceptance criteria and prioritisation work together to organise Agile project requirements.
 
 ## 5. Supporting Evidence
 
+The following evidence supports our user stories, task organisation and proposed application design.
+
 ### Evidence 1: Login Page Task Breakdown
 
-Our Trello card records five completed subtasks covering the login screen, credential storage, login API, error handling and documentation.
+Our Trello Login Page card records five completed subtasks covering the login screen, credential storage, login API, error handling and documentation. It demonstrates how the team has broken down the login feature into smaller tasks.
 
 ![GoClean Login Page tasks](assets/img/login-page-tasks.png)
 
-### Evidence 2: Trello Board and Sprint Lists
+### Evidence 2: Order Page (Booking) Task Breakdown
 
-Our board shows how proposed application features are organised into the product backlog and sprint lists.
+Our Trello Order Page (Booking) card shows five completed subtasks and 100% checklist progress. The checklist identifies the team members responsible for the recorded tasks and illustrates how the proposed booking feature was organised.
+
+The screenshot provides evidence of recorded task completion on Trello; it does not, on its own, verify that the booking functionality has been fully implemented and tested.
+
+![GoClean Order Page Booking tasks](assets/img/order-page-booking.png)
+
+### Evidence 3: Trello Board and Sprint Lists
+
+Our Trello board shows how proposed application features are organised into the product backlog and sprint lists. This supports our explanation of how the team structures and tracks planned work.
 
 ![GoClean Trello board](assets/img/goclean-trello-board.png)
 
-### Evidence 3: Proposed Application Wireframes
+### Evidence 4: Proposed Application Wireframes
 
-The wireframes illustrate the proposed screens that support the customer journey.
+The wireframes illustrate the proposed screens that support the customer journey. They provide design evidence for the planned platform and help communicate the intended user experience.
 
 ![GoClean wireframes](assets/img/goclean-wireframes.png)
