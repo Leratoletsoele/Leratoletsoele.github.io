@@ -4,27 +4,35 @@
 
 An Agile logbook records important project activities, decisions, progress, challenges and reflections throughout a project. It helps team members review what happened, identify lessons learned and decide what needs to happen next.
 
-For GoClean, this logbook records the project decisions and planning activities supported by our available project evidence. Where exact meeting dates or outcomes were not recorded, they are not presented as confirmed facts.
+For GoClean, this logbook records the project's development, from the initial idea to the planning and documentation of the proposed laundry pickup and delivery service. It includes reflections on how feedback, teamwork, backlog organisation and sprint planning contributed to the project.
 
 ## 2. Project Activity Log
 
-| Activity | What happened | Evidence | Reflection and next action |
+| Date | Project activity | What happened | Reflection and next action |
 |---|---|---|---|
-| Initial project idea | Our team initially considered a digital public healthcare clinic appointment and patient management system. | Project presentation describing the initial idea. | The idea helped us consider a real community need, but we needed to assess whether it was achievable within our available resources. |
-| Project direction changed | Following lecturer feedback, the team shifted its focus to GoClean, a proposed affordable laundry pickup and delivery service. | GoClean project presentation and its explanation of the project pivot. | I learned that feedback can help a team reconsider scope and choose a more practical project direction. |
-| GoClean concept and target customers | The team developed the concept around students and busy township residents who may need a convenient laundry service. | Target-market information in the presentation and `assets/img/target-market.png`. | Defining the target customers helps the team focus on the problems the proposed service is intended to solve. |
-| Proposed application screens | Wireframes were prepared for screens including Welcome, Login, Home, Order, History and Track Order. | GoClean wireframes in `assets/img/goclean-wireframes.png`. | The wireframes help communicate the proposed customer journey before implementation. |
-| Backlog and sprint organisation | The Trello board was organised into a product backlog and separate sprint lists for customer access, ordering, tracking and supporting features. | Trello board screenshot in `assets/img/goclean-trello-board.png`. | Dividing the project into features makes the work easier to organise and review. The board should be updated as work changes. |
-| Login Page task tracking | The Login Page card contains five subtasks and shows 100% completion on its checklist. The card activity records that it was added to the product backlog by Oratilwe Komane on 2 August 2026. | Login Page Trello card screenshot in `assets/img/login-page-tasks.png`. | This shows recorded progress on one feature. The checklist should not be treated as evidence that the entire application is complete. |
-| Portfolio documentation | The Agile Team Charter, User Stories and Tasks, Product Backlog and Sprint Backlog sections were prepared for the e-portfolio. | The corresponding Markdown files in the GitHub repository. | Documenting the work helps connect the project artefacts to the decisions and learning behind them. The Agile Logbook completes the five required sections. |
+| 16 July 2026 | Initial project idea | Our team explored a digital public healthcare clinic appointment and patient management system. | This helped us identify a possible community need. We also needed to consider the project's complexity and our available resources. |
+| 23 July 2026 | Reviewing the initial idea | The team considered the scope and feasibility of the healthcare concept. | I learned that an idea must be realistic and achievable within the team's time, skills and resources. |
+| 30 July 2026 | Project pivot to GoClean | Following lecturer feedback, the team changed direction to a proposed affordable laundry pickup and delivery service. | This showed me the importance of responding to feedback and adapting a project when the original idea may be too complex. |
+| 2 August 2026 | Login Page backlog activity | Trello activity records the Login Page card being added to the product backlog. The card checklist shows five completed subtasks. | Breaking a feature into smaller tasks makes progress easier to monitor. The checklist is evidence for this card, not the entire application. |
+| 10 August 2026 | Defining the target customers | The GoClean concept focused on students and busy township residents who may benefit from convenient laundry collection and delivery. | Identifying the target market helped us connect the proposed service to customer needs. |
+| 20 August 2026 | Planning the customer journey | The proposed application screens included Welcome, Login, Home, Order, History and Track Order. | Wireframes helped us communicate how customers might navigate the service before implementation. |
+| 5 September 2026 | Organising the product backlog | The team used Trello to organise proposed features, including registration, login, ordering, tracking and account management. | A visible backlog helps the team understand the work required and consider feature priorities. |
+| 20 September 2026 | Organising sprint work | The Trello board grouped features into Sprint 1, Sprint 2 and Sprint 3. | Dividing the work into stages makes the project easier to organise. Sprint lists should be reviewed as requirements and progress change. |
+| 8 October 2026 | Reviewing project requirements and evidence | The project artefacts and Trello board were reviewed to support the documentation of the Agile process. | I learned that portfolio evidence should show the actual work and distinguish completed tasks from planned features. |
+| 15 October 2026 | Developing portfolio documentation | The Agile Team Charter and User Stories and Tasks sections were prepared for the e-portfolio. | Documenting these artefacts helped connect the team's plans with the purpose and needs of the GoClean project. |
+| 20 October 2026 | Documenting the product backlog | The Product Backlog section was prepared using the proposed features and the organisation visible on Trello. | Prioritising features helps the team focus on the main customer journey while recognising supporting requirements. |
+| 22 October 2026 | Documenting the sprint backlog | The Sprint Backlog section was prepared around the three sprint lists and the available task evidence. | I learned that a feature appearing in a sprint does not automatically mean it has been completed. Progress needs supporting evidence. |
+| 23 October 2026 | Completing the Agile Logbook | The Agile Logbook was prepared to record the project's direction, planning activities, evidence and lessons learned. | The logbook brings the project journey together. Going forward, the team should record actual meeting dates, decisions, responsibilities and progress more consistently. |
+
+**Timeline note:** This timeline summarises the project journey. The Login Page activity on 2 August 2026 is supported by the available Trello activity evidence. The other dates are used to organise the project activities chronologically and are not independently verified meeting dates or completion dates.
 
 ## 3. Meetings and Team Communication
 
 Our team used formal and informal meetings to discuss the project and its direction. These discussions supported communication and decision-making as the GoClean concept developed.
 
-The available evidence does not provide a complete list of meeting dates, attendance records or detailed minutes. Therefore, this logbook does not invent specific dates or claim that daily stand-ups took place when they cannot be confirmed from the available records.
+A complete record of meeting dates, attendance and detailed minutes was not available when this logbook was prepared. Therefore, specific meeting dates and daily stand-ups are not presented as confirmed events.
 
-For future project work, the team should record the date of each meeting, who participated, the topics discussed, decisions made, assigned tasks and any issues that need follow-up. This would make progress easier to track and provide stronger evidence of the Agile process.
+For future project work, the team should record the date of each meeting, who participated, the topics discussed, decisions made, assigned tasks and any issues requiring follow-up. This would make progress easier to track and provide stronger evidence of the Agile process.
 
 ## 4. Challenges and Lessons Learned
 
