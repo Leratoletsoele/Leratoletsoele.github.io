@@ -8,7 +8,6 @@ The product backlog is a prioritised list of features and requirements planned f
 
 The backlog helps the team organise the features required for the proposed application, identify important functionality, and plan future development. Features are prioritised according to their importance to customers and their contribution to the main purpose of the application.
 
-The backlog is a planning document. Listing a feature here does not mean that it has already been developed, implemented, or tested.
 
 ## 2. Product Backlog Items
 
@@ -31,7 +30,6 @@ The following table presents the selected features for the proposed GoClean appl
 | PB13 | Service Information | Provides information about available services and how GoClean works. | Medium | To be prioritised |
 | PB14 | Help and Support | Provides customers with assistance when they experience problems. | Low | To be prioritised |
 
-**Note:** The priorities and sprint groupings above are the team's planning summary for this portfolio. They should not be interpreted as proof that every feature has been implemented or completed.
 
 ## 3. Prioritisation of Features
 
@@ -87,7 +85,6 @@ Planned features:
 
 Service Information and Help and Support remain additional backlog items to be prioritised according to the team's available time and project requirements.
 
-These groupings represent the planned organisation of features, rather than confirmation that all three sprints have been completed.
 
 ## 5. Product Backlog Maintenance
 
@@ -104,7 +101,6 @@ Backlog maintenance includes:
 
 The team can use feedback and future testing results to identify improvements and refine the backlog. Any changes to priorities or sprint plans should be reflected in the backlog and communicated to the team.
 
-A completed Trello checklist indicates that the listed checklist items have been marked complete. It does not, by itself, prove that a feature has been implemented or tested successfully.
 
 ## 6. Reflection
 
@@ -124,4 +120,3 @@ The following screenshot provides visual evidence of the Trello board used to or
 
 ![GoClean Trello board](assets/img/goclean-trello-board.png)
 
-[Click here to open the GoClean Trello Board](https://trello.com/b/Ia2c4Am0/goclean-app)
