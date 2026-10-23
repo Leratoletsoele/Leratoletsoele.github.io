@@ -3,9 +3,11 @@
 
 ## 1. Introduction
 
-The sprint backlog is a collection of features and tasks selected for a sprint. It helps the team organise the work that needs to be completed during a development period and monitor progress towards the sprint goal.
+A sprint backlog is a collection of features and tasks selected for a sprint. It helps a team organise the work planned for a development period and monitor progress towards a sprint goal.
 
-For GoClean, our Trello board separates planned features into Sprint 1, Sprint 2,Sprint 3 till Sprint 16. These lists organise the proposed customer journey, from accessing the platform to placing and tracking laundry orders and managing customer accounts.
+For GoClean, our Trello board contains a product backlog and sprint lists, from Sprint 1 through Sprint 16. These lists help organise the proposed customer journey, from accessing the platform to placing and tracking laundry orders and managing customer accounts.
+
+This document focuses on three selected sprints to explain how the proposed features are grouped and how the planned work supports the GoClean customer journey.
 
 The sprint backlog describes the work planned for the proposed GoClean platform. Features listed in a sprint are not necessarily completed, implemented or tested.
 
@@ -94,24 +96,19 @@ Overall, this activity helped me understand how sprint planning, task organisati
 
 ## 6. Supporting Evidence
 
-The following evidence supports our explanation of how GoClean's proposed features are organised into sprints and how the intended customer journey informs sprint planning.
+The following evidence illustrates how the team organised tasks and recorded progress on the proposed GoClean platform.
 
-### Evidence 1: GoClean Trello Board
+### Evidence 1: Feasibility and Business Plan Task Breakdown
 
-The Trello board shows the product backlog and separate sprint lists used to organise planned project work. It provides evidence of how our team groups proposed features and tracks tasks.
+![GoClean Feasibility and Business Plan Trello card](assets/img/feasibility-business-plan.png)
 
-![GoClean Trello board](assets/img/goclean-trello-board.png)
+This Trello card shows subtasks assigned to team members and a checklist with 100% completion recorded. It provides an example of how a larger activity was divided into smaller tasks and how checklist progress was monitored.
 
-**Trello board:** https://trello.com/b/Ia2c4Am0/goclean-app
+The card appears in the Product Backlog on Trello, so it demonstrates task organisation and recorded progress rather than confirming completion of a specific sprint.
 
-### Evidence 2: Proposed Application Screens
+### Evidence 2: Sprint Planning and Task Organisation
 
-The GoClean wireframes illustrate the planned customer-facing screens that inform the sprint features. They help communicate the intended user experience and support the planning of the proposed platform.
+The GoClean Trello board is used to group proposed features into sprint lists. These lists help the team organise work around sprint goals and review the tasks associated with the proposed customer journey.
 
-![GoClean wireframes](assets/img/goclean-wireframes.png)
 
-### Evidence 3: Login Page Task Breakdown
-
-The Login Page card shows how the login feature was divided into five subtasks, with 100% checklist completion recorded on Trello. This demonstrates how the team organised and monitored progress on the feature.
-
-![GoClean Login Page tasks](assets/img/login-page-tasks.png)
+The board should be reviewed alongside the sprint goals and planned tasks described in this section to understand how the work is organised.
