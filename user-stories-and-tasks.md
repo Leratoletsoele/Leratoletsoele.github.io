@@ -3,138 +3,130 @@
 
 ## 1. Introduction
 
-User stories describe the features that users need from the GoClean laundry service application. They help the team understand the user's needs and organise the work into smaller tasks.
+GoClean is a laundry pickup and delivery application concept designed to provide convenient and affordable laundry services to university students and busy residents.
 
-GoClean is a proposed laundry pickup and delivery service aimed at university students and busy residents who need an affordable and convenient way to manage their laundry.
+User stories help the team understand the needs of potential users and identify the functionality required for the application. These stories were organised into tasks and prioritised to support the development process using Agile principles.
 
-The user stories below describe the planned functionality of the application and the tasks required to develop it.
+## 2. User Stories and Tasks
 
-## 2. User Stories
+### User Story 1: User Registration
 
-### User Story 1: User Login
+**As a** new user,  
+**I want to** create an account,  
+**So that** I can access GoClean's services.
+
+**Tasks:**
+- Design the registration page.
+- Create fields for the required user information.
+- Add a registration submission option.
+- Provide a link to the login page.
+
+**Acceptance Criteria:**
+- Users can enter their required registration details.
+- The registration form provides a submission option.
+- Users can navigate to the login page.
+
+**Priority:** High
+
+### User Story 2: User Login
 
 **As a** registered user,  
 **I want to** log in using my email address and password,  
 **So that** I can access my account.
 
 **Tasks:**
-- Create the login page.
+- Design the login page.
 - Add email and password fields.
-- Add a password visibility option.
-- Include a Login button.
-- Provide a link for users who need to register.
+- Include a password visibility option.
+- Add a Login button.
+- Provide a link to the registration page.
 
-**Acceptance criteria:**
-- The user can enter an email address and password.
-- The password field allows the user to show or hide the password.
-- The user can select the Login button.
-- A registration link is available.
+**Acceptance Criteria:**
+- Users can enter their email address and password.
+- Users can show or hide their password.
+- The login form provides a Login button.
+- Users can navigate to the registration page.
 
 **Priority:** High
 
-**Supporting evidence:** The screenshot below shows the GoClean login interface. It provides evidence of the designed login page, rather than proof of successful authentication.
+**Evidence: GoClean Login Interface**
 
 ![GoClean Login Interface](assets/img/goclean-login.png)
-
-The Login Page task card on Trello also records the team's task breakdown and completed checklist.
-
-### User Story 2: User Registration
-
-**As a** new user,  
-**I want to** create an account,  
-**So that** I can use the GoClean service.
-
-**Tasks:**
-- Create a registration interface.
-- Add the required user information fields.
-- Provide a way to submit registration details.
-- Include a link to the login page.
-
-**Acceptance criteria:**
-- A new user can enter the required information.
-- The page provides a registration submission option.
-- Existing users can navigate to the login page.
-
-**Priority:** High
 
 ### User Story 3: View Laundry Services
 
 **As a** potential customer,  
-**I want to** view the available laundry services and their prices,  
-**So that** I can choose a service that suits my needs and budget.
+**I want to** view available laundry services and their prices,  
+**So that** I can choose a service that meets my needs and budget.
 
 **Tasks:**
-- Create a services page.
-- Display the available laundry service categories.
-- Show starting prices for the services.
-- Provide a way to proceed towards placing an order.
+- Design the services page.
+- Display the available laundry services.
+- Show the starting prices for each service.
+- Provide navigation towards the booking process.
 
-**Acceptance criteria:**
-- The available service categories are displayed.
-- Starting prices are shown.
-- The user can identify a suitable service.
+**Acceptance Criteria:**
+- The available laundry services are displayed.
+- Starting prices are visible to customers.
+- Customers can identify the service they want.
 
 **Priority:** High
 
-**Supporting evidence:** The screenshot shows the GoClean Services page and its displayed service categories and starting prices.
+**Evidence: GoClean Services Interface**
 
 ![GoClean Services Interface](assets/img/goclean-services.png)
 
-### User Story 4: Book a Laundry Order
+### User Story 4: Book a Laundry Service
 
 **As a** customer,  
 **I want to** book a laundry service,  
-**So that** I can request laundry collection and processing.
+**So that** I can arrange for my laundry to be collected and processed.
 
 **Tasks:**
 - Design the order-booking page.
-- Provide fields for the required order details.
-- Allow the customer to select a service.
-- Provide a way to submit an order.
+- Provide fields for the necessary booking information.
+- Allow customers to select a laundry service.
+- Provide an option to submit the booking.
 
-**Acceptance criteria:**
-- The customer can enter the required booking information.
-- The customer can select a service.
-- An order submission option is provided.
-- The application should provide appropriate feedback after submission.
+**Acceptance Criteria:**
+- Customers can provide the required booking details.
+- Customers can select a service.
+- Customers can submit their booking.
+- The application provides appropriate feedback after submission.
 
 **Priority:** High
-
-**Supporting evidence:** The Trello Order Page (Booking) card records five checklist subtasks marked complete and shows the team's task organisation. Checklist completion indicates recorded task progress; it does not independently confirm that booking works end to end.
-
-![GoClean Order Page Booking Task](assets/img/order-page-booking.png)
 
 ### User Story 5: Receive Order Confirmation
 
 **As a** customer,  
-**I want to** receive confirmation after placing an order,  
-**So that** I know my booking has been received.
+**I want to** receive confirmation of my booking,  
+**So that** I know my order has been submitted.
 
 **Tasks:**
-- Plan the order confirmation interface.
-- Display a summary of the submitted order.
-- Provide confirmation feedback to the customer.
+- Develop the order confirmation interface.
+- Display a summary of the booking.
+- Provide confirmation feedback.
 
-**Acceptance criteria:**
-- The customer should receive clear feedback after submitting an order.
-- The order summary should show the relevant booking information.
+**Acceptance Criteria:**
+- Customers receive confirmation after a successful booking.
+- The confirmation displays relevant order information.
 
 **Priority:** High
 
 ### User Story 6: Track an Order
 
 **As a** customer,  
-**I want to** track the progress of my laundry order,  
-**So that** I know its current status.
+**I want to** track my laundry order,  
+**So that** I can follow its progress.
 
 **Tasks:**
-- Plan an order-tracking page.
-- Display the relevant order information.
-- Provide a status indicator for the order.
+- Develop the order-tracking interface.
+- Display the relevant order details.
+- Show the current order status.
 
-**Acceptance criteria:**
-- The customer should be able to identify the relevant order.
-- The current order status should be displayed when tracking functionality is implemented.
+**Acceptance Criteria:**
+- Customers can identify the order they want to track.
+- The order's current status is displayed.
 
 **Priority:** Medium
 
@@ -145,13 +137,13 @@ The Login Page task card on Trello also records the team's task breakdown and co
 **So that** I can review my laundry service history.
 
 **Tasks:**
-- Plan an order-history page.
-- Display previous orders associated with the customer.
-- Show relevant details for each order.
+- Develop the order-history interface.
+- Display previous orders.
+- Show relevant information for each order.
 
-**Acceptance criteria:**
-- Previous orders should be displayed for the relevant customer.
-- The customer should be able to review the available order details.
+**Acceptance Criteria:**
+- Customers can view their previous orders.
+- Relevant order details are available for review.
 
 **Priority:** Medium
 
@@ -159,55 +151,57 @@ The Login Page task card on Trello also records the team's task breakdown and co
 
 **As a** registered customer,  
 **I want to** manage my profile information,  
-**So that** my account details can remain up to date.
+**So that** I can keep my account details up to date.
 
 **Tasks:**
-- Plan a profile page.
-- Provide fields for relevant customer information.
-- Include an option to update profile details.
+- Develop the profile interface.
+- Display relevant customer information.
+- Provide an option to update profile details.
 
-**Acceptance criteria:**
-- The customer should be able to view their profile information.
-- The interface should provide a way to update relevant details.
+**Acceptance Criteria:**
+- Customers can view their profile information.
+- Customers can update their relevant account details.
 
 **Priority:** Medium
 
-## 3. Prioritisation
+## 3. User Story Prioritisation
 
-The user stories were prioritised according to the importance of each feature to the proposed customer journey.
+The user stories were prioritised according to their importance to the GoClean customer journey.
 
 | Priority | User stories | Reason |
 |---|---|---|
-| High | Login, Registration, Services, Laundry Booking, Order Confirmation | These features support access to the service and the intended booking process. |
-| Medium | Order Tracking, Order History, Profile and Settings | These features support customers after account creation and booking. |
+| High | Registration, Login, View Services, Book a Laundry Service, Order Confirmation | These features support account access, service selection and the booking process. |
+| Medium | Order Tracking, Order History, Profile and Settings | These features support order management and the ongoing customer experience. |
 
-The prioritisation provides a guide for deciding which features should receive attention first. It does not mean that every feature has been fully implemented or tested.
+This prioritisation helped the team identify the core features to focus on first while organising additional functionality for subsequent development.
 
-## 4. Team Task Organisation
+## 4. Task Organisation Using Agile Principles
 
-The team used Trello to organise project tasks and record progress. User stories were broken down into smaller tasks so that the work could be managed more easily.
+The team used Trello to organise project tasks, maintain the backlog and monitor progress. Larger features were divided into smaller tasks to make the work easier to plan and manage.
 
-The Trello board provided a shared view of the project backlog and sprint organisation. Individual task cards, such as Login Page and Order Page (Booking), also recorded subtasks and checklist progress.
+Task cards helped the team identify the work required for individual features. The Login Page and Order Page (Booking) cards provided more detailed task breakdowns, while the overall Trello board offered an overview of the project's organisation.
 
-## 5. Reflection
+**Evidence: Trello Order Page (Booking) Task Card**
 
-Creating user stories helped me understand the importance of planning a system from the user's perspective. Instead of focusing only on pages and technical features, I considered what customers would need to do when using GoClean.
+![GoClean Order Page Booking Task](assets/img/order-page-booking.png)
 
-I learned that acceptance criteria are important because they describe what a feature should achieve. They also provide a basis for checking whether the completed feature meets its intended requirements.
+**Project organisation:** [View the GoClean Trello Board](https://trello.com/b/Ia2c4Am0/goclean-app)
 
-Prioritising the user stories helped me identify the features that are most important to the proposed laundry booking journey. Login, registration, services and booking were given high priority because they form part of the intended customer experience.
+## 5. Personal Reflection
 
-The Trello task cards helped the team break larger pieces of work into smaller tasks and record progress. However, I also learned that a completed checklist does not automatically prove that a feature works correctly. Functionality must be checked and tested separately.
+Developing user stories helped me understand the importance of designing an application around the needs of its users. I learned that each feature should have a clear purpose and contribute to the overall user experience.
 
-If I were to improve this process, I would document clearer test results against each acceptance criterion and maintain evidence of which features have been implemented and verified. This would make it easier to distinguish planned functionality, recorded task progress and working application features.
+Writing tasks and acceptance criteria also helped me understand how larger requirements can be divided into smaller, manageable activities. Acceptance criteria provide a way to determine whether a feature meets its intended requirements.
+
+I also learned that prioritisation is important in Agile development because it helps the team focus on the most important functionality first. For GoClean, registration, login, service selection and booking form an important part of the intended customer journey.
+
+Using Trello supported the team's organisation by providing a shared space for tracking tasks and reviewing progress. Overall, this process improved my understanding of user-centred design, requirements analysis, teamwork and Agile project planning.
 
 ## 6. Supporting Evidence
 
-The following evidence supports this section:
+The following evidence supports the user stories and task organisation presented in this section:
 
-1. **Login interface screenshot** – shows the designed login page.
-2. **Services interface screenshot** – shows the available service categories and displayed starting prices.
-3. **Trello Order Page (Booking) task screenshot** – shows the booking task breakdown and recorded checklist progress.
-4. **Trello board screenshot** – provides an overview of the team's project and task organisation.
-
-The evidence is included to demonstrate the design, planning and task organisation associated with the user stories. Screenshots of interfaces and Trello cards should not be treated as proof that all features have been completed or tested.
+1. **Login Interface:** Shows the GoClean login page and its main interface elements.
+2. **Services Interface:** Shows the laundry service categories and displayed starting prices.
+3. **Order Page (Booking) Task Card:** Shows the booking task breakdown and recorded task progress.
+4. **GoClean Trello Board:** Provides an overview of the team's project and task organisation.
