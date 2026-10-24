@@ -5,7 +5,7 @@ Welcome to our GoClean Agile Project Portfolio. This portfolio presents our team
 
 GoClean is a laundry pickup and delivery application designed for university students and busy township residents. It provides a convenient way for customers to explore laundry services and arrange laundry collection and delivery.
 
-Our team initially considered a digital public healthcare clinic appointment and patient management system. After considering lecturer feedback about feasibility and complexity, we changed our project direction to GoClean and focused on a more practical laundry service solution.
+Our team initially considered a digital public healthcare clinic appointment and patient management system. After considering lecturer feedback about feasibility and complexity, we changed our project direction to GoClean and focused on a practical laundry service solution.
 
 ## Project Overview
 
@@ -44,7 +44,7 @@ Presents the project vision, objectives, team members, scope, communication and 
 
 ### 2. User Stories and Tasks
 
-Presents customer-focused user stories, their associated tasks and acceptance criteria, connecting user needs with the GoClean application.
+Presents customer-focused user stories, their associated tasks and acceptance criteria, connecting customer needs with the GoClean application.
 
 [Open User Stories and Tasks](user-stories-and-tasks.md)
 
