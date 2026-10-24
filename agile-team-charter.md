@@ -176,7 +176,6 @@ The Trello board demonstrates how the team organised product backlog items and s
 
 ![GoClean Trello board](assets/img/goclean-trello-board.png)
 
-**Trello board:** [GoClean — Trello](https://trello.com/b/Ia2c4Am0/goclean-app)
 
 ### Evidence 4: Login Page Tasks
 
