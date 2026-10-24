@@ -168,7 +168,6 @@ Evidence: Trello Order Page (Booking) Task Card
 
 ![GoClean Order Page Booking Task](assets/img/order-page-booking.png)
 
-Project organisation: [View the GoClean Trello Board](https://trello.com/b/Ia2c4Am0/goclean-app)
 
 ## 5. Personal Reflection
 
