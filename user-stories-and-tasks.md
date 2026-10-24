@@ -1,9 +1,8 @@
-
 # GoClean – User Stories and Tasks
 
 ## 1. Introduction
 
-GoClean is a laundry pickup and delivery application concept designed to provide convenient and affordable laundry services to university students and busy residents.
+GoClean is a laundry pickup and delivery application designed to provide convenient and affordable laundry services to university students and busy residents.
 
 User stories help the team understand the needs of potential users and identify the functionality required for the application. These stories were organised into tasks and prioritised to support the development process using Agile principles.
 
@@ -11,9 +10,7 @@ User stories help the team understand the needs of potential users and identify 
 
 ### User Story 1: User Registration
 
-As a new user,  
-I want to create an account,  
-So that I can access GoClean's services.
+As a new user, I want to create an account so that I can access GoClean's services.
 
 Tasks:
 - Design the registration page.
@@ -30,9 +27,7 @@ Priority: High
 
 ### User Story 2: User Login
 
-As a registered user,  
-I want to log in using my email address and password,  
-So that I can access my account.
+As a registered user, I want to log in using my email address and password so that I can access my account.
 
 Tasks:
 - Design the login page.
@@ -55,9 +50,7 @@ Evidence: GoClean Login Interface
 
 ### User Story 3: View Laundry Services
 
-As a potential customer,  
-I want to view available laundry services and their prices,  
-So that I can choose a service that meets my needs and budget.
+As a potential customer, I want to view available laundry services and their prices so that I can choose a service that meets my needs and budget.
 
 Tasks:
 - Design the services page.
@@ -78,9 +71,7 @@ Evidence: GoClean Services Interface
 
 ### User Story 4: Book a Laundry Service
 
-As a customer,  
-I want to book a laundry service,  
-So that I can arrange for my laundry to be collected and processed.
+As a customer, I want to book a laundry service so that I can arrange for my laundry to be collected and processed.
 
 Tasks:
 - Design the order-booking page.
@@ -98,9 +89,7 @@ Priority: High
 
 ### User Story 5: Receive Order Confirmation
 
-As a customer,  
-I want to receive confirmation of my booking,  
-So that I know my order has been submitted.
+As a customer, I want to receive confirmation of my booking so that I know my order has been submitted.
 
 Tasks:
 - Develop the order confirmation interface.
@@ -115,9 +104,7 @@ Priority: High
 
 ### User Story 6: Track an Order
 
-As a customer,  
-I want to track my laundry order,  
-So that I can follow its progress.
+As a customer, I want to track my laundry order so that I can follow its progress.
 
 Tasks:
 - Develop the order-tracking interface.
@@ -132,9 +119,7 @@ Priority: Medium
 
 ### User Story 7: View Order History
 
-As a returning customer,  
-I want to view my previous orders,  
-So that I can review my laundry service history.
+As a returning customer, I want to view my previous orders so that I can review my laundry service history.
 
 Tasks:
 - Develop the order-history interface.
@@ -149,9 +134,7 @@ Priority: Medium
 
 ### User Story 8: Manage Profile and Settings
 
-As a registered customer,  
-I want to manage my profile information,  
-So that I can keep my account details up to date.
+As a registered customer, I want to manage my profile information so that I can keep my account details up to date.
 
 Tasks:
 - Develop the profile interface.
@@ -193,7 +176,7 @@ Developing user stories helped me understand the importance of designing an appl
 
 Writing tasks and acceptance criteria also helped me understand how larger requirements can be divided into smaller, manageable activities. Acceptance criteria provide a way to determine whether a feature meets its intended requirements.
 
-I also learned that prioritisation is important in Agile development because it helps the team focus on the most important functionality first. For GoClean, registration, login, service selection and booking form an important part of the intended customer journey.
+I also learned that prioritisation is important in Agile development because it helps the team focus on the most important functionality first. For GoClean, registration, login, service selection and booking form an important part of the customer journey.
 
 Using Trello supported the team's organisation by providing a shared space for tracking tasks and reviewing progress. Overall, this process improved my understanding of user-centred design, requirements analysis, teamwork and Agile project planning.
 
