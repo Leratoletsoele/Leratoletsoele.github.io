@@ -3,100 +3,104 @@
 
 ## 1. Introduction
 
-A sprint backlog is a collection of product backlog items and tasks selected for a sprint. It helps a team organise work, establish sprint goals and monitor progress towards those goals.
+A sprint backlog is a collection of product backlog items and tasks organised around a sprint goal. It helps an Agile team structure its work, coordinate responsibilities and monitor progress towards the intended outcomes.
 
-For GoClean, the Trello board contains a product backlog and sprint lists from Sprint 1 through Sprint 16. These lists help organise the proposed customer journey, from accessing the platform to placing and tracking laundry orders and managing customer accounts.
+GoClean is a laundry pickup and delivery application designed to provide convenient and affordable laundry services to university students and busy residents. The team used Trello to organise the product backlog, sprint lists and individual task cards throughout the project.
 
-This document focuses on three selected sprints to demonstrate how related features are grouped and how the planned work supports the GoClean customer journey.
+The GoClean Trello board contains a product backlog and sprint lists from Sprint 1 through Sprint 16. For this portfolio, three selected sprint groupings are presented to demonstrate how the team's work was organised around the main customer journey, from accessing the platform to arranging laundry services and managing customer accounts.
 
-## 2. Sprint Goals and Planned Work
+## 2. Sprint Goals and Completed Project Work
 
 ### Sprint 1: Customer Access and Landing Page
 
-Sprint goal:
+**Sprint goal:** Establish the main entry point to GoClean and organise the features customers need to access the platform.
 
-Organise the main entry point to GoClean and the features customers need to access the platform.
-
-| Feature | Planned tasks |
+| Feature | Tasks and activities |
 |---|---|
 | Welcome/Landing Screen | Design the welcome screen and introduce the GoClean service. |
 | Home Page | Organise the main navigation and display key service information. |
-| Registration Page | Plan the registration form and identify the information needed to create an account. |
-| Login Page | Design the login screen, manage credential handling and provide appropriate login feedback. |
+| Registration Page | Design the registration form and identify the information required to create an account. |
+| Login Page | Design the login interface, provide credential fields and include appropriate login controls and feedback. |
 
-Progress evidence:
+**Progress evidence**
 
-The Login Page card on the Trello board contains five subtasks marked complete. This demonstrates how the team broke down the login feature into smaller tasks and recorded progress.
+The Login Page card on the Trello board contains five subtasks marked complete. This recorded progress demonstrates how the team divided the login feature into smaller activities and used a checklist to monitor completion.
+
+The login interface is also included in the portfolio as evidence of the application's user interface.
+
+![GoClean Login Interface](assets/img/goclean-login.png)
 
 ### Sprint 2: Laundry Orders and Tracking
 
-Sprint goal:
+**Sprint goal:** Organise and deliver the main features associated with requesting laundry collection and accessing order information.
 
-Organise the features customers need to request laundry collection and follow the progress of their orders.
-
-| Feature | Planned tasks |
+| Feature | Tasks and activities |
 |---|---|
-| Order Page (Booking) | Identify the details customers need to provide when booking laundry collection and organise the booking process. |
-| Order Confirmation | Provide confirmation and relevant details after an order is submitted. |
-| Order Tracking | Identify the order progress information that should be displayed to customers. |
-| Order History | Organise how customers can review their previous orders. |
+| Order Page (Booking) | Organise the booking interface and the information customers provide when requesting laundry collection. |
+| Order Confirmation | Present confirmation and relevant information after an order is submitted. |
+| Order Tracking | Provide customers with information about their order progress. |
+| Order History | Organise the display of customers' previous orders. |
 
-These features support the main GoClean customer journey. The booking feature is particularly important because it enables customers to arrange laundry collection through the platform.
+These features represent an important part of the GoClean customer journey. The booking process allows customers to arrange laundry services, while order confirmation, tracking and history support access to relevant order information.
 
-The Order Page (Booking) Trello card shows five completed subtasks and 100% checklist progress. The card also shows team members assigned to the work, illustrating how tasks were divided and progress was recorded.
+**Progress evidence**
+
+The Order Page (Booking) Trello card records five completed subtasks and 100% checklist progress. The card also shows team members assigned to the work, providing evidence of task allocation, collaboration and recorded progress.
+
+![GoClean Order Page Booking Task](assets/img/order-page-booking.png)
+
+The booking task card demonstrates how a larger feature was divided into manageable activities and tracked through Trello.
 
 ### Sprint 3: Account Management and Supporting Features
 
-Sprint goal:
+**Sprint goal:** Organise the account-management and supporting functionality associated with the wider GoClean service.
 
-Organise additional features that support customer account management and the pickup and delivery process.
-
-| Feature | Planned tasks |
+| Feature | Tasks and activities |
 |---|---|
-| User Profile/Settings | Identify the customer information and settings that should be available. |
-| Notifications | Identify important order updates that customers may need to receive. |
-| Driver Assignment | Plan how collection and delivery tasks could be assigned to drivers. |
-| Payments | Identify the payment requirements for the proposed service. |
+| User Profile and Settings | Organise the customer information and account settings available to users. |
+| Notifications | Identify and present relevant updates about bookings and order progress. |
+| Driver Assignment | Organise the allocation of pickup and delivery tasks to drivers. |
+| Payments | Address payment functionality associated with laundry services. |
 
-These features extend the customer journey and support the operational needs of GoClean. Notifications can keep customers informed about order progress, while driver assignment can help organise the delivery process.
+These features complement the main customer journey by addressing account management, communication and service operations. Together, the three sprint groupings provide a structured overview of the key functionality identified for GoClean.
 
 ## 3. Task Organisation and Progress Tracking
 
-The team uses Trello to organise features and tasks. Separate sprint lists make planned work visible and allow team members to review tasks and recorded progress.
+The team used Trello as a shared workspace to organise features, manage task cards and record progress. Separate sprint lists made the work visible and helped team members review activities associated with different parts of the application.
 
-Breaking features into smaller tasks makes work easier to understand, assign and monitor. Checklists help the team track progress on individual cards. For example, the Login Page and Order Page (Booking) cards contain five subtasks each, marked complete.
+Breaking features into smaller tasks made the work easier to understand, allocate and monitor. Checklists provided a practical way to record task completion. The Login Page and Order Page (Booking) cards, for example, each contain five subtasks marked complete.
 
-Effective progress tracking involves:
+The main task-management practices included:
 
-- Keeping Trello cards updated.
-- Assigning clear responsibilities to tasks.
-- Identifying unfinished work and potential delays.
-- Communicating difficulties and dependencies between features.
-- Reviewing progress against sprint goals.
-- Recording changes to sprint plans.
-- Keeping sprint tasks aligned with the product backlog.
+- Organising features and tasks in Trello.
+- Dividing larger features into smaller activities.
+- Assigning team members to relevant task cards.
+- Recording progress through checklist completion.
+- Communicating about responsibilities and related tasks.
+- Keeping task organisation aligned with the product backlog.
+- Reviewing completed work in relation to the project's objectives.
 
-These practices support team communication, improve visibility of project activities and help the team manage its workload.
+These practices supported collaboration and helped the team maintain visibility of its work. The Trello board and task cards provide concrete evidence of how the team organised and recorded project activities.
 
-## 4. Challenges and Areas for Improvement
+## 4. Teamwork and Agile Learning
 
-One area for improvement is ensuring that tasks have clear owners and realistic completion targets. The team should also review dependencies between features. For example, the order-booking process may depend on customer account access and the information required to create an order.
+Working with sprint groupings helped the team organise GoClean into related areas of functionality. The selected groupings demonstrate the progression from customer access to laundry ordering and then to account management and supporting features.
 
-Another area for improvement is maintaining accurate progress records. Regular Trello updates can help the team identify delays earlier, adjust plans where necessary and communicate changes to all team members.
+The task cards also illustrate the value of shared responsibility. By recording assigned team members and checklist progress, Trello provided a common reference point for the work associated with individual features.
 
-Linking sprint tasks to product backlog items and acceptance criteria would also improve traceability. It would make it easier to understand why each task is required and how its outcome contributes to the sprint goal.
+The project strengthened my understanding of how sprint goals, task breakdowns and progress records work together within Agile development. It also demonstrated the importance of connecting individual activities to the wider product objectives so that team members can understand how their contributions fit into the completed application.
 
 ## 5. Personal Reflection
 
-Working with a sprint backlog helped me understand how Agile development divides a larger project into smaller, more manageable stages. For GoClean, the selected sprint groupings move from customer access to laundry ordering and tracking, followed by additional account and service features.
+Working with the GoClean sprint backlog improved my understanding of how Agile development organises a larger project into manageable groups of features and tasks. I learned that sprint goals provide direction, while individual task cards help make the work more specific and easier to coordinate.
 
-I learned that sprint goals provide direction for the team's work, while individual tasks help break down the activities needed to achieve those goals. Trello also gives the team a shared space to organise tasks, assign responsibilities and monitor recorded progress.
+The three selected sprint groupings helped me understand how different features contribute to the customer journey. Customer access establishes the starting point, laundry booking supports the main service process, and account management and supporting features contribute to the wider user experience.
 
-The Login Page and Order Page (Booking) task cards helped me understand how checklists can make larger activities easier to manage. I also recognised the importance of keeping task records updated so that the team can communicate progress and identify outstanding work.
+Using Trello strengthened my understanding of task organisation and teamwork. The Login Page and Order Page (Booking) cards demonstrated how checklists can be used to divide activities into smaller tasks and record their completion. Seeing team assignments and checklist progress also helped me appreciate the value of a shared workspace when working on a group project.
 
-In future sprint planning, I would encourage the team to agree on clear responsibilities, set achievable targets and connect tasks to relevant acceptance criteria. This would make sprint planning more structured and improve how progress is communicated.
+Completing and testing GoClean allowed me to connect the planning process with the finished application. I gained a clearer understanding of how sprint organisation, task allocation and progress tracking contribute to the development process and support the delivery of a completed project.
 
-Overall, this activity strengthened my understanding of sprint planning, task organisation, teamwork and progress tracking within an Agile project.
+Overall, this activity strengthened my knowledge of sprint planning, Agile teamwork, task management and progress tracking. It also taught me the importance of maintaining clear task records and connecting individual activities to the objectives of the application.
 
 ## 6. Supporting Evidence
 
@@ -104,12 +108,15 @@ Overall, this activity strengthened my understanding of sprint planning, task or
 
 ![GoClean Feasibility and Business Plan Trello Card](assets/img/feasibility-business-plan.png)
 
-This Trello card shows how the feasibility and business planning activity was divided into smaller subtasks, with a checklist displaying 100% completion. It illustrates task organisation and the recording of checklist progress.
+The Feasibility and Business Plan Trello card records a checklist with 100% completion. It demonstrates how a broader project activity was divided into smaller subtasks and how completion was recorded through Trello.
 
 ### Evidence 2: Sprint Planning and Task Organisation
 
-The GoClean Trello board provides an overview of the product backlog and sprint lists used to organise the project.
+The GoClean Trello board provides an overview of the product backlog, sprint lists and task cards used to organise the project.
 
-[Trello board — GoClean](https://trello.com/b/Ia2c4Am0/goclean-app)
 
-The board illustrates how the team grouped work into sprint lists and organised tasks around the proposed customer journey.
+The board illustrates the team's approach to grouping work, assigning tasks and recording progress. Alongside the task-card screenshots and application interface evidence, it supports the portfolio's explanation of how Agile practices were applied throughout the GoClean project.
+
+### Conclusion
+
+The GoClean sprint backlog demonstrates how the team organised features, structured tasks and recorded progress using Agile practices. The sprint groupings and Trello evidence connect the project's planning activities with the completed application, while the reflection highlights the knowledge and teamwork skills gained through the process.
