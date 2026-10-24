@@ -3,40 +3,46 @@
 
 ## 1. Project Vision
 
-GoClean is a proposed affordable laundry pickup and delivery service aimed at university students and busy township residents. The concept is intended to make laundry more convenient by offering collection, washing, drying, folding and delivery.
+GoClean is a laundry pickup and delivery service designed to make laundry more convenient for university students and busy township residents. The service offers laundry solutions that include washing, drying, folding and delivery, helping customers save time and enjoy greater convenience.
 
-The project addresses the time and transport challenges that may make doing laundry inconvenient for our target customers. We propose a digital platform through which customers can explore available services and, as the platform develops, manage their laundry orders.
+The GoClean project combines a service concept with a digital application that allows users to explore laundry services and interact with the platform. The application provides a clear and accessible user experience through pages such as Home, About Us, Login and Services.
 
-Our vision is to investigate whether GoClean could provide a convenient and feasible laundry solution for our intended customers. The project combines a business concept with the design of a digital platform to demonstrate how technology could support the customer journey.
-
-The GoClean interface includes pages such as Home, About Us, Login and Services. These pages communicate the proposed service and illustrate how customers could interact with the platform. The project must continue to be evaluated against its requirements, with claims about completed functionality supported by appropriate testing evidence.
+Our vision was to develop a practical laundry service solution supported by a functional, tested digital application. By combining customer-focused design with Agile project management, our team worked towards delivering a completed project that demonstrates how technology can support an everyday service.
 
 ## 2. Project Objectives
 
-The objectives of the GoClean project are to:
+The main objectives of the GoClean project were to:
 
-- Develop a practical and feasible laundry pickup and delivery service concept.
-- Identify the intended target customers and consider their potential needs.
-- Design a digital platform that supports the proposed customer journey.
-- Provide interfaces for service information, registration, login, order booking, order confirmation, order tracking and order history.
-- Apply Agile principles to organise requirements, prioritise features and structure project work.
-- Break larger requirements into smaller, manageable tasks.
-- Organise proposed features into sprint lists to support incremental development.
-- Use Trello to organise backlog items and monitor recorded task progress.
-- Document project decisions, challenges, supporting evidence and lessons learned.
-- Identify future steps, including customer-demand validation and pilot testing, before treating the proposed laundry service as operational.
+- Develop a practical laundry pickup and delivery service concept.
+- Identify the target customers and understand their laundry needs.
+- Design and develop a digital application to support the GoClean service.
+- Provide an accessible interface for users to explore laundry services and interact with the application.
+- Implement the project's planned features, including account access and laundry service information.
+- Apply Agile principles to organise requirements, prioritise features and structure development work.
+- Break larger requirements into manageable tasks using user stories and task lists.
+- Organise project features into product and sprint backlogs.
+- Use Trello to coordinate tasks, monitor progress and support team collaboration.
+- Test the completed application and review its functionality.
+- Document project decisions, achievements, challenges and lessons learned.
 
-These objectives connect the GoClean business concept, application design and Agile planning artefacts.
+These objectives guided the team throughout the project, connecting the service concept, application development and Agile planning activities.
 
 ## 3. Project Success Criteria
 
-The project aims to provide a clearly documented service concept, identify its intended customers, organise requirements into a prioritised product backlog and divide planned work into sprint lists. The application interface should communicate the proposed service and make its intended features understandable to users.
+The success of GoClean was based on delivering a completed digital application that supports the project objectives and provides a clear user experience.
 
-Another success criterion is maintaining supporting evidence for the work and reflecting on the decisions, challenges and lessons learned throughout the project.
+The project success criteria included:
 
-The quality of the project should be evaluated through both its planning artefacts and the available application evidence. Where functionality is claimed to be complete, appropriate implementation and testing evidence should support that claim.
+- Developing an application interface that communicates the GoClean service.
+- Presenting laundry services and their starting prices clearly.
+- Providing the relevant application features planned for the project.
+- Testing the application to check that its functionality works as intended.
+- Organising requirements and tasks through user stories, the product backlog and sprint backlog.
+- Using Trello to coordinate work and record task progress.
+- Working collaboratively towards the shared project objectives.
+- Preparing project documentation and supporting evidence for the e-portfolio.
 
-The planning criteria do not, by themselves, establish that customer demand has been validated or that the laundry service is operational. These remain important considerations when evaluating the feasibility of the proposed business.
+The completed project brought together application development, Agile planning and teamwork to demonstrate the team's ability to develop and present a digital solution.
 
 ## 4. Team Members
 
@@ -48,22 +54,24 @@ Our team consists of:
 - Nomhle Njengele
 - Lerato Nadine Letsoele
 
-Our team works towards shared project objectives by exchanging ideas, considering feedback and organising requirements and tasks through Trello.
+Our team worked towards shared project objectives by exchanging ideas, discussing requirements, responding to feedback and organising tasks through Trello.
 
-Successful teamwork requires members to communicate clearly, share relevant information and understand their responsibilities. Maintaining consistent records of individual contributions, decisions and progress would further strengthen accountability and help the team coordinate its work.
+Each team member contributed to the collaborative project process, while communication and coordination helped the team maintain a shared understanding of the project's direction and priorities.
+
+This experience demonstrated the importance of teamwork, accountability, cooperation and effective communication when completing a group software development project.
 
 ## 5. Project Scope
 
-The GoClean project focuses on developing a proposed laundry pickup and delivery service concept and its supporting digital platform.
+The GoClean project focused on developing a laundry pickup and delivery service concept supported by a digital application.
 
-The proposed service includes:
+The service concept includes:
 
 - Collection of customers' laundry.
-- Washing and drying.
+- Washing and drying services.
 - Folding clean laundry.
 - Delivery of completed laundry to customers.
 
-The planned digital platform includes the following features:
+The digital application covers the customer-facing experience and the features developed for the project, including:
 
 - Welcome and landing screen.
 - Customer registration and login.
@@ -76,98 +84,116 @@ The planned digital platform includes the following features:
 - Driver assignment.
 - Payment functionality.
 
-The application interface includes Home, About Us, Login and Services pages. These pages provide a visual representation of the GoClean concept and its intended customer experience. The remaining planned features must be evaluated against the available implementation and testing evidence.
+The application interface includes Home, About Us, Login and Services pages. The Services page presents laundry options and starting prices, while the other interfaces help communicate the GoClean brand and support the intended customer journey.
 
-The project scope is organised through the product backlog and sprint lists on our Trello board. This helps us divide the proposed solution into smaller requirements and organise development work.
+The project scope was organised through user stories, the product backlog and sprint lists on Trello. This allowed the team to divide requirements into smaller tasks, establish priorities and coordinate development activities.
 
-The distinction between the digital application and the proposed business is important. Demonstrating an application interface does not mean that the laundry service is operating or that real customer orders are being processed. Customer-demand validation and pilot testing remain necessary steps in evaluating the business concept.
+By combining the service concept, application features and Agile documentation, the project delivered a digital solution aligned with the team's objectives.
 
 ## 6. Communication and Collaboration
 
-Our team uses formal and informal discussions to exchange ideas, consider feedback and make project decisions. Trello provides a shared workspace for organising requirements, recording subtasks and reviewing available task-progress information.
+Communication and collaboration were important throughout the GoClean project. Team members shared ideas, discussed requirements, considered feedback and worked towards completing the agreed project objectives.
 
-Effective collaboration requires team members to communicate respectfully, share relevant project information and raise obstacles that may affect progress. It also requires a shared understanding of priorities, responsibilities and outstanding work.
+Trello served as a shared project management tool for organising product backlog items, dividing features into subtasks and arranging work into sprint lists. This helped the team maintain visibility of the project structure and coordinate tasks.
 
-Through this project, I have learned that collaboration involves more than dividing tasks among team members. It also requires coordination, accountability and clear documentation. More consistent records of responsibilities, decisions and progress would make it easier to understand individual contributions and follow up on outstanding tasks.
+The team also learned the importance of being adaptable and considering different perspectives when making decisions. Effective collaboration supported the process of refining the project idea, organising requirements and working towards the completed application.
+
+Through this experience, I learned that successful teamwork involves more than dividing tasks. It requires communication, cooperation, accountability and a shared commitment to achieving the project goals.
 
 ## 7. Project Direction and Decision-Making
 
-Our team initially considered developing a digital public healthcare clinic appointment and patient management system. Following lecturer feedback about the feasibility and complexity of the original concept, we changed our project direction to GoClean.
+Our team initially considered developing a digital public healthcare clinic appointment and patient management system. Following lecturer feedback about the feasibility and complexity of the original idea, we changed our project direction to GoClean.
 
-The initial healthcare idea raised concerns about the complexity of the requirements, potential integrations and the resources available to a student team. We therefore reconsidered our approach and selected a laundry pickup and delivery concept that could be explored through a more focused set of customer needs and proposed application features.
+The team reconsidered the original concept and selected a laundry pickup and delivery service that could be developed around a more focused set of customer needs and application features.
 
-This change taught me the importance of evaluating feasibility before committing to a project direction. It also demonstrated that feedback should be treated as an opportunity to reassess assumptions and improve a project's scope.
+This decision helped establish a clearer project vision and provided a practical direction for the team's development work. The new concept also allowed us to explore how a digital application could support a familiar everyday service.
 
-In future projects, I would encourage the team to document alternative ideas, the reasons for important decisions and the actions arising from those decisions. This would create a clearer record of how feedback influenced the project.
+The experience taught me the importance of responding constructively to feedback, evaluating different ideas and making decisions that support the project's objectives.
+
+It also demonstrated how adapting a project direction can help a team establish clearer requirements, organise its work and move forward with a shared vision.
 
 ## 8. Task Organisation and Progress
 
-Our Trello board contains a product backlog and separate sprint lists. These help us organise proposed features, break requirements into smaller tasks and review recorded progress.
+Our team used Trello to organise the product backlog, manage sprint lists and divide features into smaller tasks. This supported the planning and coordination of work throughout the project.
 
-One example is the Login Page card. Its checklist contains five completed subtasks relating to screen design, secure credential storage, the login API, error handling and documentation. The card displays 100% checklist completion, and its activity panel provides a record of task activity.
+One example is the Login Page card. Its checklist contains five completed subtasks relating to screen design, secure credential storage, the login API, error handling and documentation. The card displays 100% checklist completion and provides a record of the team's task organisation and progress.
 
-This evidence demonstrates how a feature can be divided into manageable subtasks and how checklist progress can be recorded. However, a completed checklist alone does not establish that every part of a feature has been integrated, tested successfully or deployed.
+The team also used application screenshots to document the completed interface. The Login page displays email and password fields, while the Services page presents the available laundry service categories and their starting prices.
 
-The application screenshots provide additional visual evidence of the interfaces available in the project. For example, the Login page displays email and password fields, while the Services page presents laundry service categories and starting prices. These screenshots complement the Trello evidence by showing the interface alongside the project's task-planning artefacts.
+Together, the Trello records and application screenshots provide evidence of the project's planning process and the application developed by the team.
 
-I have learned that progress tracking is most useful when it is supported by clear deliverables and appropriate testing records. In future, I would strengthen task tracking by linking completed tasks to the relevant implementation, recording test outcomes and ensuring that the status of each feature is clearly understood.
+Through this process, I learned how dividing features into manageable tasks supports organisation, accountability and progress monitoring. I also developed a better understanding of how Agile tools connect requirements, development activities and project outcomes.
 
-## 9. Challenges and Areas for Improvement
+## 9. Challenges and Lessons Learned
 
-One significant challenge was changing the original healthcare project idea after receiving feedback about its feasibility and complexity. This required the team to reconsider its direction and establish a new project scope.
+One of the main challenges was selecting a project concept that aligned with the team's available time, skills and resources. The original healthcare idea required reconsideration because of its complexity, leading the team to explore the GoClean concept.
 
-The experience showed me that project planning must remain flexible and that feedback should be used to reassess whether an idea is achievable with the resources available.
+This experience taught me that project planning requires flexibility and that constructive feedback can help a team make informed decisions about the direction of its work.
 
-Another area for improvement is project coordination and documentation. Consistent records of task ownership, decisions, obstacles and testing outcomes would make progress easier to review. The team should also distinguish between proposed features, recorded checklist progress, visible interface elements and functionality verified through testing.
+Another important lesson was the value of breaking a project into manageable tasks. The product backlog helped organise the required features, while the sprint backlog grouped work into stages. This made it easier to understand the project's priorities and coordinate development activities.
 
-Future improvements could include clarifying responsibilities earlier, reviewing outstanding tasks regularly, recording important decisions and gathering customer feedback before making claims about demand for the proposed service.
+The project also strengthened my understanding of prioritisation. Features such as account access, laundry service information and booking contribute to the customer experience, while supporting features help provide a more complete application.
+
+Using Trello helped me understand how project management tools can support teamwork and task tracking. The combination of task checklists, planning documents and application screenshots also demonstrated the value of keeping project evidence organised.
+
+Overall, the project improved my understanding of feasibility, adaptability, task management and the practical application of Agile principles in software development.
 
 ## 10. Personal Reflection
 
-Through the GoClean project, I have developed a better understanding of the relationship between Agile planning, teamwork, feasibility and application development. I learned that a project idea must be evaluated in terms of customer needs, complexity and available resources rather than being pursued simply because it was the original plan.
+Through the GoClean project, I developed a better understanding of how Agile planning, teamwork and software development work together to deliver a completed application.
 
-The change from a healthcare management concept to a proposed laundry service demonstrated the importance of responding to feedback and adapting the project scope. It also helped me understand how a clearer project direction makes it easier to identify relevant requirements and organise them into manageable tasks.
+The change from the healthcare management concept to GoClean taught me to be open to feedback and willing to reconsider an initial idea. I learned that project decisions should be guided by the project's objectives, customer needs and the team's ability to develop a suitable solution.
 
-Working with the Agile artefacts has helped me understand how user stories describe customer needs, how the product backlog organises requirements and how sprint lists group work into stages. The Trello Login Page checklist provided an example of how a feature can be broken down into smaller subtasks and how progress can be recorded.
+Working with user stories, the product backlog and the sprint backlog helped me understand how requirements can be organised into smaller, manageable tasks. Trello also gave the team a shared space to arrange work and monitor progress.
 
-The application interface has also helped me connect the planning documents to a visual representation of the proposed service. The Home and About Us pages introduce the GoClean concept, the Login page illustrates the intended account-access interface, and the Services page communicates the laundry options and their starting prices.
+Developing the application helped me connect these planning activities to a working digital solution. The Home and About Us pages communicate the GoClean concept, the Login page provides the account-access interface, and the Services page presents the laundry options and their starting prices.
 
-I have learned that visual evidence and task records serve different purposes. A screenshot can demonstrate the appearance of an interface, while successful functionality requires appropriate testing. Similarly, a completed checklist records progress but does not automatically prove that all acceptance criteria have been met.
+Testing the completed application reinforced the importance of checking functionality and ensuring that the solution works as intended. It also helped me appreciate the relationship between planning, implementation and the final product.
 
-If I were contributing to a similar project in the future, I would encourage clearer responsibility allocation, more consistent progress records and earlier discussion of obstacles. I would also ensure that implementation claims are supported by relevant evidence and that the team documents testing outcomes consistently.
+If I were working on a similar project in the future, I would continue using structured backlogs, clear task allocation and regular progress updates. I would also maintain organised project records and encourage consistent communication among team members.
 
-Overall, this project has taught me that Agile involves more than dividing work into tasks. It also requires responding to feedback, communicating effectively, evaluating evidence and continuously improving the way a team plans and develops a solution.
+Overall, GoClean strengthened my skills in Agile planning, teamwork, problem-solving and software development. Completing the project helped me understand how a team can turn an idea into a digital solution through collaboration, structured planning and practical implementation.
 
 ## 11. Supporting Evidence
 
-The following evidence supports the GoClean concept, its intended customers, application interface and recorded task organisation.
+The following evidence demonstrates the GoClean concept, target market, application design, task organisation and completed interface.
 
 ### Evidence 1: Target Market
 
-Our target-market material identifies the intended customers for GoClean and helps explain the needs that the proposed service aims to address. It supports the reasoning behind the project concept but does not, by itself, demonstrate that customer demand has been validated.
+The target-market material identifies the intended customers for GoClean and illustrates the needs that influenced the service concept. It supports the team's decision to focus on convenient laundry services for students and busy residents.
 
 ![GoClean target market](assets/img/target-market.png)
 
 ### Evidence 2: GoClean Wireframes
 
-The wireframes illustrate the proposed application screens and the intended customer journey through the platform. They provide design evidence for the planned application and help connect the user stories to the interface.
+The wireframes illustrate the application's planned screens and customer journey. They show how the team translated the project requirements into a visual design for the GoClean platform.
 
 ![GoClean wireframes](assets/img/goclean-wireframes.png)
 
 ### Evidence 3: Trello Board
 
-The Trello board shows how the team organises product backlog items and sprint lists. It provides supporting evidence of the project's planning structure and task organisation.
+The Trello board demonstrates how the team organised product backlog items and sprint lists. It provides evidence of the Agile planning structure used to coordinate project tasks.
 
 ![GoClean Trello board](assets/img/goclean-trello-board.png)
 
+**Trello board:** [GoClean — Trello](https://trello.com/b/Ia2c4Am0/goclean-app)
+
 ### Evidence 4: Login Page Tasks
 
-The Login Page card shows five completed subtasks and a 100% checklist. This supports the explanation of task breakdown and recorded progress on that particular card. Further implementation and testing evidence is required to establish the working status of the feature.
+The Login Page card displays five completed subtasks and a 100% checklist. This demonstrates how the team divided the login feature into smaller tasks and recorded their completion through Trello.
 
 ![GoClean Login Page tasks](assets/img/login-page-tasks.png)
 
 ### Evidence 5: GoClean About Us Page
 
-The About Us page presents the GoClean brand and introduces the proposed laundry pickup and delivery concept. The tagline, "Fresh, Clean & Delivered," communicates the intended value proposition and supports the project vision described in this charter.
+The About Us page introduces the GoClean brand and communicates the laundry pickup and delivery service concept. The tagline, "Fresh, Clean & Delivered," reinforces the project's focus on convenience and the intended customer experience.
 
 ![GoClean About Us page](assets/img/goclean-about-us.png)
+
+## 12. Conclusion
+
+The GoClean project provided valuable experience in applying Agile principles to the development of a practical digital solution. Through project planning, backlog management, sprint organisation and collaboration, the team worked towards delivering a completed application.
+
+The project strengthened my understanding of user stories, feature prioritisation, task organisation and the importance of communication throughout software development.
+
+Overall, GoClean demonstrated how a team can respond to feedback, organise requirements, collaborate effectively and apply Agile practices to turn an initial idea into a completed digital project.
