@@ -16,18 +16,16 @@ The logbook also reflects on my personal learning and identifies improvements th
 | 16 July 2026 | Initial project idea | The team explored a digital public healthcare clinic appointment and patient management system. | This introduced the team to identifying a community need. We also needed to consider whether the proposed system was achievable with our available time and resources. |
 | 23 July 2026 | Reviewing the initial idea | The healthcare concept was reviewed in terms of its scope, complexity and feasibility. | I learned that a useful project idea must also be realistic and manageable within the team's available skills and resources. |
 | 30 July 2026 | Project pivot to GoClean | Following lecturer feedback, the team changed direction and explored an affordable laundry pickup and delivery service. | This demonstrated the importance of accepting constructive feedback and adapting a project when the original concept may be too complex. |
-| 2 August 2026 | Login Page backlog activity | Trello activity records the Login Page card being added to the product backlog. The card checklist shows five completed subtasks. | Breaking a feature into smaller tasks makes progress easier to organise and review. The checklist provides evidence of recorded task progress. |
+| 2 August 2026 | Login Page backlog activity | The Login Page card was added to the product backlog on Trello. Its checklist shows five completed subtasks. | Breaking a feature into smaller tasks makes progress easier to organise and review. The checklist helps the team monitor recorded task progress. |
 | 10 August 2026 | Identifying target customers | The project focused on university students and busy township residents who could benefit from convenient laundry services. | Defining the target market helped connect the proposed service to customer needs. Further research could help establish demand and refine the service offering. |
 | 20 August 2026 | Planning the customer journey | Proposed application screens included Welcome, Login, Home, Order, History and Track Order. | Wireframes helped communicate the intended user journey and provided a visual guide for planning the application. |
 | 5 September 2026 | Organising the product backlog | Proposed features, including registration, login, laundry booking, order tracking and account management, were organised using Trello. | A structured backlog makes the required work more visible and helps the team prioritise features according to their importance. |
 | 20 September 2026 | Organising sprint work | Features were grouped into sprint lists on the Trello board, including Sprint 1, Sprint 2 and Sprint 3. | Dividing the work into stages made the project easier to plan. Sprint priorities should continue to be reviewed as requirements and progress change. |
-| 8 October 2026 | Reviewing project requirements and evidence | Project artefacts and the Trello board were reviewed to support the preparation of the Agile e-portfolio. | I learned that project documentation should connect planning decisions with relevant evidence and clearly communicate the progress recorded. |
+| 8 October 2026 | Reviewing project requirements and evidence | Project artefacts and the Trello board were reviewed to support the preparation of the Agile e-portfolio. | I learned that project documentation should connect planning decisions with relevant evidence and clearly communicate progress. |
 | 15 October 2026 | Preparing portfolio documentation | The Agile Team Charter and User Stories and Tasks sections were prepared for the e-portfolio. | Documenting these artefacts helped me connect the project's vision and intended customers with the features planned for GoClean. |
 | 20 October 2026 | Documenting the product backlog | The Product Backlog section was prepared using the proposed features and their organisation on Trello. | Prioritising features helps the team focus on the main customer journey while identifying supporting features for later consideration. |
-| 22 October 2026 | Documenting the sprint backlog | The Sprint Backlog section was prepared around selected sprint groupings and available task evidence. | I learned that assigning a feature to a sprint does not automatically mean that it has been completed. Progress should be supported by appropriate evidence. |
+| 22 October 2026 | Documenting the sprint backlog | The Sprint Backlog section was prepared around selected sprint groupings and the available task evidence. | I learned that assigning a feature to a sprint does not automatically mean that it has been completed. Progress should be supported by appropriate evidence. |
 | 23 October 2026 | Preparing the Agile Logbook | This logbook was prepared to bring together the project timeline, reflections, lessons learned and supporting evidence. | Reflecting on the project helped me identify what I learned and how more consistent documentation could improve future teamwork and project management. |
-
-*Timeline note: The dates above reflect the project timeline recorded in the draft. The 2 August 2026 Login Page activity is supported by the available Trello activity evidence. The other dates should be treated as recorded timeline entries rather than independently verified meeting dates or completion dates unless additional evidence is available.*
 
 ## 3. Meetings and Team Communication
 
@@ -86,11 +84,10 @@ This evidence supports my reflection on project feasibility, responding to feedb
 
 The GoClean Trello board provides evidence of how proposed features and tasks were organised. The Login Page card records activity on 2 August 2026, and its checklist shows five completed subtasks.
 
-This evidence demonstrates task organisation and recorded checklist progress within the project.
+This evidence demonstrates task organisation and recorded checklist progress.
 
 ![GoClean Trello board](assets/img/goclean-trello-board.png)
 
-**Trello board:** [GoClean — Trello](https://trello.com/b/Ia2c4Am0/goclean-app)
 
 ## 7. Conclusion
 
