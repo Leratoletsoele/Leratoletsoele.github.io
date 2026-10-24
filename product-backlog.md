@@ -3,15 +3,13 @@
 
 ## 1. Introduction
 
-The product backlog is a prioritised list of features and requirements planned for the GoClean application. GoClean is a proposed laundry pickup and delivery service designed to make laundry more convenient and affordable for university students and busy residents.
+The product backlog is a prioritised list of features and requirements for the GoClean application. GoClean is a laundry pickup and delivery service designed to make laundry more convenient and affordable for university students and busy residents.
 
-The backlog helps the team organise the features required for the proposed application, identify important functionality and plan future development. Features are prioritised according to their expected value to customers and their contribution to the main purpose of the application.
-
-This document represents the planned features and priorities for GoClean. Inclusion of a feature in the backlog does not mean that it has been implemented or tested. The Trello board provides supporting evidence of how the team organised and recorded progress on project tasks.
+The backlog helps the team organise the application's features, identify important functionality and plan development activities. Features are prioritised according to their expected value to customers and their contribution to the main purpose of the application.
 
 ## 2. Product Backlog Items
 
-The following table presents the selected features for the proposed GoClean application.
+The following table presents the main features identified for GoClean, their priorities and their planned sprint groupings.
 
 | ID | Feature | Description | Priority | Planned Sprint |
 |---|---|---|---|---|
@@ -30,114 +28,107 @@ The following table presents the selected features for the proposed GoClean appl
 | PB13 | Service Information | Provides information about available services and how GoClean works. | Medium | To be prioritised |
 | PB14 | Help and Support | Provides customers with assistance when they experience problems. | Low | To be prioritised |
 
-The sprint allocations shown above represent the planned grouping of features. They should not be interpreted as proof that each feature was completed during the stated sprint.
-
 ## 3. Prioritisation of Features
 
 The product backlog uses priority levels to help the team decide which features should receive attention first.
 
 ### High Priority
 
-High-priority features support the main customer journey. These include the welcome screen, home page, customer registration, customer login, laundry booking, order confirmation and order tracking.
+High-priority features include the welcome screen, home page, customer registration, customer login, laundry booking, order confirmation and order tracking.
 
-These features are important because customers need to access the proposed application, arrange laundry services and receive information about their requests before additional functionality can provide further value.
+These features support the main customer journey, allowing customers to access the application, explore the service, arrange laundry collection and receive information about their orders.
 
 ### Medium Priority
 
-Medium-priority features improve the customer experience and support the management of laundry orders. These include order history, user profile settings, notifications, driver assignment, payments and service information.
+Medium-priority features include order history, user profile settings, notifications, driver assignment, payments and service information.
 
-Although these features contribute to the proposed service, their priority can be reviewed according to available development time, dependencies and project requirements.
+These features support the customer experience and the management of laundry orders, while contributing to the wider operation of the proposed service.
 
 ### Low Priority
 
-Help and support is classified as a lower-priority feature in this initial planning summary. Although customer support remains important, the team prioritised the main customer journey before additional supporting functionality.
+Help and support is classified as a lower-priority feature in the initial backlog. Although customer support is important, the team prioritised the core customer journey before additional supporting functionality.
 
-Priorities may change as the team receives feedback, reviews the feasibility of features and identifies development requirements. The backlog should therefore be treated as an evolving planning document rather than a fixed list.
+Priorities can be reviewed as project requirements develop and the team evaluates dependencies, feedback and available development time.
 
 ## 4. Planned Sprint Groupings
 
-The selected backlog items are grouped into three planned development areas. These groupings provide a structure for organising the proposed work.
+The backlog items are organised into three planned development areas. These groupings provide a structure for managing the work and focusing on related features.
 
 ### Sprint 1: Customer Access and Landing Page
 
 This sprint focuses on the initial customer experience and access to the application.
 
-**Planned features:**
+Planned features:
 
 - PB01 — Welcome/Landing Screen
 - PB02 — Home Page
 - PB03 — Customer Registration
 - PB04 — Customer Login
 
-These features establish the proposed entry point into GoClean and the account access required for customers to use the platform.
+These features establish the entry point into GoClean and provide the account access customers need to use the application.
 
 ### Sprint 2: Laundry Orders and Tracking
 
 This sprint focuses on the main laundry service journey.
 
-**Planned features:**
+Planned features:
 
 - PB05 — Laundry Booking
 - PB06 — Order Confirmation
 - PB07 — Order Tracking
 - PB08 — Order History
 
-These features are intended to support customers from submitting a laundry request to reviewing its status and accessing previous bookings.
+These features support customers through the intended booking process, from submitting a laundry request to reviewing order information and previous bookings.
 
 ### Sprint 3: Account Management and Supporting Features
 
-This sprint focuses on additional functionality intended to improve customer account management and service operations.
+This sprint focuses on additional functionality to improve account management and service operations.
 
-**Planned features:**
+Planned features:
 
 - PB09 — User Profile and Settings
 - PB10 — Notifications
 - PB11 — Driver Assignment
 - PB12 — Payments
 
-These features would support account maintenance, communication and the operational requirements of the proposed service.
+These features support account maintenance, communication with customers and the operational requirements of the service.
 
-Service Information and Help and Support remain additional backlog items to be prioritised according to the team's available time and project requirements.
-
-The sprint groupings document the proposed organisation of the work. Actual completion should be determined from the team's records and available implementation or testing evidence, not from the planned sprint allocation alone.
+Service Information and Help and Support remain additional backlog items that can be prioritised according to project requirements and available time.
 
 ## 5. Product Backlog Maintenance
 
-The product backlog should be reviewed regularly to ensure that it remains relevant to the project objectives and the needs of potential customers.
+The product backlog should be reviewed regularly to ensure that it remains relevant to the project objectives and customer needs.
 
 Backlog maintenance includes:
 
 - Reviewing the importance of each feature.
 - Updating priorities when requirements change.
-- Dividing large features into smaller, manageable tasks.
+- Dividing larger features into smaller, manageable tasks.
 - Identifying dependencies between features.
 - Removing duplicate or unnecessary items.
-- Defining acceptance criteria so that the expected outcome of each feature is clear.
-- Using the Trello board to organise backlog cards and monitor recorded checklist progress.
-- Reviewing available implementation and testing evidence before describing functionality as complete.
+- Defining acceptance criteria for each feature.
+- Using Trello to organise backlog cards and monitor task progress.
+- Reviewing feedback and testing results to identify possible improvements.
 
-Feedback and future testing results could help the team identify improvements and refine the backlog. Any changes to priorities or sprint plans should be reflected in the relevant project records and communicated to the team.
-
-Maintaining the backlog in this way can help keep requirements clear, improve task organisation and make the relationship between planned features and recorded progress easier to understand.
+Maintaining the backlog helps the team keep requirements organised, improve task planning and establish a clear relationship between product features and development activities.
 
 ## 6. Reflection
 
-Creating the product backlog helped me understand how a broad project idea can be divided into individual features that are easier to organise and prioritise. Instead of treating GoClean as one large application, the backlog separates the proposed customer journey into features such as account access, laundry booking, order confirmation and tracking.
+Creating the product backlog helped me understand how a broad project idea can be divided into individual features that are easier to organise and prioritise. Instead of treating GoClean as one large application, the backlog separates the customer journey into features such as account access, laundry booking, order confirmation and tracking.
 
-Prioritising the main customer journey helped me understand why some features should be considered before others. Customers would need a way to access the proposed application and submit a laundry request before supporting features, such as order history and notifications, could provide their intended value.
+Prioritising the main customer journey helped me understand why certain features are more important than others. Customers need a way to access the application and arrange laundry services before additional features can provide their intended value.
 
-The planned sprint groupings also helped me understand how a product backlog can support sprint planning. The backlog identifies the broader features, while smaller tasks on Trello can help organise the work needed to address individual features. However, I learned that assigning a feature to a sprint does not demonstrate that it was completed during that sprint.
+The planned sprint groupings also helped me understand how a product backlog supports sprint planning. The backlog identifies the broader features, while smaller Trello tasks help organise the work required for individual features.
 
-One area for improvement is to ensure that each backlog item has clear acceptance criteria and a direct link to its corresponding Trello card. This would make it easier to trace a feature from its original requirement to the tasks used to organise it. Recording test outcomes would also help the team distinguish between planned functionality, checklist progress and features that have been verified to work.
+One area I would improve is linking each backlog item to its corresponding Trello card and acceptance criteria. This would make it easier to trace requirements, organise responsibilities and evaluate the outcome of each feature.
 
-Overall, developing the product backlog improved my understanding of prioritisation, feature organisation and the relationship between product planning and sprint activities. It also showed me that a useful backlog should be reviewed as a project develops and should accurately reflect both the team's plans and the evidence available.
+Overall, developing the product backlog improved my understanding of feature prioritisation, requirements organisation and the relationship between product planning and sprint activities. It also showed me the importance of regularly reviewing the backlog as a project develops.
 
 ## 7. Supporting Evidence
 
 ### Evidence 1: GoClean Trello Board
 
-The following screenshot provides visual evidence of the Trello board used to organise the GoClean project. It supports the discussion of backlog organisation, sprint planning and the recording of task progress.
+The Trello board provides an overview of how the team organised the GoClean project, arranged tasks and grouped work into sprints. It supports the discussion of backlog management, sprint planning and team collaboration.
 
-The screenshot should be interpreted as evidence of project organisation. It does not independently verify that all the features listed in this product backlog have been implemented or tested.
+![GoClean Trello Board](assets/img/goclean-trello-board.png)
 
-![GoClean Trello board](assets/img/goclean-trello-board.png)
