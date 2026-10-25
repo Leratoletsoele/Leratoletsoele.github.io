@@ -60,9 +60,9 @@ This sprint grouping focuses on the initial customer experience and access to th
 Features:
 
 - PB01 - Welcome/Landing Screen
-- PB02 — Home Page
-- PB03 — Customer Registration
-- PB04 — Customer Login
+- PB02 - Home Page
+- PB03 - Customer Registration
+- PB04 - Customer Login
 
 These features establish the entry point into GoClean and provide the account-access functionality associated with the customer experience.
 
@@ -72,10 +72,10 @@ This sprint grouping focuses on the main laundry service journey.
 
 Features:
 
-- PB05 — Laundry Booking
-- PB06 — Order Confirmation
-- PB07 — Order Tracking
-- PB08 — Order History
+- PB05 - Laundry Booking
+- PB06 - Order Confirmation
+- PB07 - Order Tracking
+- PB08 - Order History
 
 These features organise the requirements associated with submitting a laundry request, receiving order information, following order progress and reviewing previous bookings.
 
@@ -85,10 +85,10 @@ This sprint grouping focuses on account management, communication and supporting
 
 Features:
 
-- PB09 — User Profile and Settings
-- PB10 — Notifications
-- PB11 — Driver Assignment
-- PB12 — Payments
+- PB09 - User Profile and Settings
+- PB10 - Notifications
+- PB11 - Driver Assignment
+- PB12 - Payments
 
 These features address account maintenance, customer updates and operational requirements associated with the wider service.
 
