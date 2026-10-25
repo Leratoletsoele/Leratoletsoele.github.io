@@ -125,7 +125,6 @@ Overall, this activity improved my knowledge of product backlog management, prio
 
 The GoClean Trello board provides an overview of the product backlog, sprint lists and task cards used to organise the project. It demonstrates how the team grouped features, recorded tasks and maintained visibility of project activities.
 
-[View the GoClean Trello Board](https://trello.com/b/Ia2c4Am0/goclean-app).
 
 ### Evidence 2: Login Page Task Breakdown
 
