@@ -59,7 +59,7 @@ This sprint grouping focuses on the initial customer experience and access to th
 
 Features:
 
-- PB01 — Welcome/Landing Screen
+- PB01 - Welcome/Landing Screen
 - PB02 — Home Page
 - PB03 — Customer Registration
 - PB04 — Customer Login
