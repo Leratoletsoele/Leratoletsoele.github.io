@@ -1,5 +1,5 @@
 
-# GoClean — Agile Team Charter
+# GoClean  Agile Team Charter
 
 ## 1. Project Vision
 
