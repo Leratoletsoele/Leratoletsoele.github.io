@@ -1,192 +1,249 @@
-
 # GoClean User Stories and Tasks
 
 ## 1. Introduction
 
-GoClean is a laundry pickup and delivery application designed to provide convenient and affordable laundry services to university students and busy residents.
+User stories describe the needs and expectations of the intended users of the GoClean application. They helped the team identify the functionality required to provide a convenient laundry pickup and delivery service for university students and busy residents.
 
-User stories were used to identify customer needs and describe the features that support the GoClean customer journey. These stories were broken down into smaller tasks, supported by acceptance criteria, and prioritised using Agile principles. This approach helped the team organise the project, understand the purpose of each feature, and maintain a clear focus on the customer experience.
+The user stories and associated tasks provided a structured way to organise requirements, establish acceptance criteria and prioritise development activities. These requirements informed the development of GoClean, which has been completed and tested. This section presents the user stories and tasks that guided the development of the functional application.
 
-## 2. User Stories and Tasks
+## 2. User Stories
 
-### User Story 1: User Registration
+### User Story 1: Customer Registration
 
-As a new user, I want to create an account so that I can access GoClean's services.
+**User story**
+
+As a new customer, I want to register an account so that I can access the GoClean laundry services.
 
 **Tasks**
-- Design the registration page.
-- Create fields for the required user information.
-- Add a registration submission option.
-- Provide a link to the login page.
+- Design the customer registration interface.
+- Identify the information required to create an account.
+- Organise the registration form fields.
+- Provide appropriate feedback during registration.
+- Test the registration process.
 
-**Acceptance Criteria**
-- Users can enter their required registration details.
-- The registration form provides a submission option.
-- Users can navigate to the login page.
+**Acceptance criteria**
+- The customer can access the registration interface.
+- The registration form presents the required input fields.
+- The application provides appropriate feedback during the registration process.
+- The registration functionality is included in the completed application.
 
 **Priority:** High
 
-### User Story 2: User Login
+### User Story 2: Customer Login
 
-As a registered user, I want to log in using my email address and password so that I can access my account.
+**User story**
+
+As a registered customer, I want to log in to my account so that I can access the GoClean application.
 
 **Tasks**
-- Design the login page.
-- Add email and password fields.
-- Include a password visibility option.
-- Add a Login button.
-- Provide a link to the registration page.
+- Design the login interface.
+- Provide fields for the customer's login credentials.
+- Include appropriate login controls.
+- Organise feedback for the login process.
+- Test the login interface and functionality.
 
-**Acceptance Criteria**
-- Users can enter their email address and password.
-- Users can show or hide their password.
-- The login form provides a Login button.
-- Users can navigate to the registration page.
+**Acceptance criteria**
+- The customer can access the login interface.
+- The interface provides the relevant credential fields.
+- The login controls are available to the customer.
+- The login functionality is included in the completed application.
 
 **Priority:** High
 
-**Evidence: GoClean Login Interface**
+**Supporting evidence**
 
 ![GoClean Login Interface](assets/img/goclean-login.png)
 
+The screenshot demonstrates the login interface developed for GoClean.
+
 ### User Story 3: View Laundry Services
 
-As a potential customer, I want to view available laundry services and their prices so that I can choose a service that meets my needs and budget.
+**User story**
+
+As a customer, I want to view the available laundry services so that I can choose a service that meets my needs.
 
 **Tasks**
-- Design the services page.
-- Display the available laundry services.
-- Show the starting prices for each service.
-- Provide navigation towards the booking process.
+- Identify the laundry services offered by GoClean.
+- Organise the service information for display.
+- Present the service names and associated prices.
+- Design the services interface.
+- Review the presentation of service information.
 
-**Acceptance Criteria**
-- The available laundry services are displayed.
-- Starting prices are visible to customers.
-- Customers can identify the service they want.
+**Acceptance criteria**
+- Customers can view the available laundry services.
+- Service information is organised in a clear and understandable format.
+- Relevant service prices are displayed.
+- The services interface is available in the completed application.
 
 **Priority:** High
 
-**Evidence: GoClean Services Interface**
+**Supporting evidence**
 
 ![GoClean Services Interface](assets/img/goclean-services.png)
 
+The screenshot demonstrates how GoClean presents its laundry services to customers.
+
 ### User Story 4: Book a Laundry Service
 
-As a customer, I want to book a laundry service so that I can arrange for my laundry to be collected and processed.
+**User story**
+
+As a customer, I want to book a laundry service so that I can arrange the collection and delivery of my laundry.
 
 **Tasks**
-- Design the order-booking page.
-- Provide fields for the necessary booking information.
-- Allow customers to select a laundry service.
-- Provide an option to submit the booking.
+- Design the laundry booking interface.
+- Organise the information required for a booking.
+- Provide the relevant booking input fields.
+- Organise the booking submission process.
+- Test the booking interface and functionality.
 
-**Acceptance Criteria**
-- Customers can provide the required booking details.
-- Customers can select a service.
-- Customers can submit their booking.
-- The application provides appropriate feedback after submission.
+**Acceptance criteria**
+- Customers can access the booking interface.
+- The interface provides the relevant booking information fields.
+- The booking process allows customers to submit their booking details.
+- The booking functionality is included in the completed application.
 
 **Priority:** High
 
+**Supporting evidence**
+
+The Order Page (Booking) Trello card records five completed subtasks and 100% checklist progress. It demonstrates how the booking feature was divided into manageable activities and how progress was recorded.
+
+![GoClean Order Page Booking Task](assets/img/order-page-booking.png)
+
 ### User Story 5: Receive Order Confirmation
 
-As a customer, I want to receive confirmation of my booking so that I know my order has been submitted.
+**User story**
+
+As a customer, I want to receive confirmation of my laundry booking so that I know my order has been recorded.
 
 **Tasks**
-- Develop the order confirmation interface.
-- Display a summary of the booking.
-- Provide confirmation feedback.
+- Identify the information associated with a submitted booking.
+- Organise the order confirmation information.
+- Present relevant booking details.
+- Connect confirmation information with the booking process.
+- Test the order confirmation functionality.
 
-**Acceptance Criteria**
-- Customers receive confirmation after a successful booking.
-- The confirmation displays relevant order information.
+**Acceptance criteria**
+- The application supports the order confirmation process.
+- Relevant booking information is presented to the customer.
+- The confirmation process supports the customer's understanding of their order.
+- Order confirmation functionality is included in the completed application.
 
 **Priority:** High
 
 ### User Story 6: Track an Order
 
-As a customer, I want to track my laundry order so that I can follow its progress.
+**User story**
+
+As a customer, I want to access information about my laundry order so that I can follow its progress.
 
 **Tasks**
-- Develop the order-tracking interface.
-- Display the relevant order details.
-- Show the current order status.
+- Identify the order information relevant to customers.
+- Organise the order tracking interface.
+- Present relevant order progress information.
+- Connect order information with the customer journey.
+- Test the order tracking functionality.
 
-**Acceptance Criteria**
-- Customers can identify the order they want to track.
-- The order's current status is displayed.
+**Acceptance criteria**
+- Customers can access the relevant order information.
+- The interface presents order progress information clearly.
+- The tracking functionality supports access to information about an order.
+- Order tracking functionality is included in the completed application.
 
-**Priority:** Medium
+**Priority:** High
 
 ### User Story 7: View Order History
 
-As a returning customer, I want to view my previous orders so that I can review my laundry service history.
+**User story**
+
+As a returning customer, I want to view my previous laundry orders so that I can refer to my earlier service requests.
 
 **Tasks**
-- Develop the order-history interface.
-- Display previous orders.
-- Show relevant information for each order.
+- Identify the information relevant to previous orders.
+- Organise the order history interface.
+- Present previous order information clearly.
+- Structure the information for customer access.
+- Test the order history functionality.
 
-**Acceptance Criteria**
-- Customers can view their previous orders.
-- Relevant order details are available for review.
+**Acceptance criteria**
+- Customers can access the order history functionality.
+- Previous order information is presented in an organised format.
+- The interface supports reviewing earlier orders.
+- Order history functionality is included in the completed application.
 
 **Priority:** Medium
 
 ### User Story 8: Manage Profile and Settings
 
-As a registered customer, I want to manage my profile information so that I can keep my account details up to date.
+**User story**
+
+As a registered customer, I want to manage my profile and account settings so that I can maintain my account information.
 
 **Tasks**
-- Develop the profile interface.
-- Display relevant customer information.
-- Provide an option to update profile details.
+- Identify the customer information relevant to profile management.
+- Organise the profile interface.
+- Present the relevant account information and settings.
+- Structure the account management experience.
+- Test the profile and settings functionality.
 
-**Acceptance Criteria**
-- Customers can view their profile information.
-- Customers can update their relevant account details.
+**Acceptance criteria**
+- Customers can access the relevant profile and settings functionality.
+- Account information is presented in an organised format.
+- The interface supports the available account management activities.
+- Profile and settings functionality is included in the completed application.
 
 **Priority:** Medium
 
-## 3. User Story Prioritisation
+## 3. Task Organisation and Prioritisation
 
-The user stories were prioritised according to their importance to the GoClean customer journey.
+The user stories helped the team organise GoClean's requirements according to customer needs and the purpose of the application. Each story was divided into smaller tasks to make the work easier to understand, organise and monitor.
 
-| Priority | User stories | Reason |
-|---|---|---|
-| High | Registration, Login, View Services, Book a Laundry Service, Order Confirmation | These features support account access, service selection and the booking process. |
-| Medium | Order Tracking, Order History, Profile and Settings | These features support order management and the ongoing customer experience. |
+High-priority stories focused on the central customer journey, including registration, login, viewing laundry services, booking a service, receiving order confirmation and tracking an order. Order history and profile management supported the wider customer experience.
 
-Prioritisation helped the team identify the core features of GoClean and organise the work according to customer needs. Registration, login, service selection and booking were given high priority because they represent important steps in the customer journey. Order tracking, order history, and profile management complement these core features by supporting the wider customer experience.
+Trello provided a shared workspace for organising project features and recording task progress. The Login Page and Order Page (Booking) cards demonstrate how features were broken down into smaller subtasks and how completion was recorded using checklists.
 
-## 4. Task Organisation Using Agile Principles
+This approach helped connect individual tasks with the broader objectives of GoClean. The completed and tested application demonstrates how the team's requirements were translated into a functional digital solution.
 
-The team used Trello to organise project tasks, maintain the backlog and monitor progress. Larger features were divided into smaller tasks, making the work easier to understand, allocate and manage.
+## 4. Reflection and Learning
 
-The Login Page and Order Page (Booking) task cards provided detailed breakdowns of the activities associated with individual features. The Order Page (Booking) card recorded five completed checklist items, demonstrating how the team used smaller tasks to track progress. The overall Trello board provided a shared overview of the project and supported collaboration among team members.
+Preparing the user stories helped me understand the importance of considering an application from the user's perspective. Each story describes a particular need and explains why the corresponding functionality is valuable.
 
-**Evidence: Trello Order Page (Booking) Task Card**
+I learned that acceptance criteria help clarify the expected outcome of a feature. They provide a basis for understanding what a requirement should achieve and for reviewing the functionality developed in response to it.
+
+Breaking user stories into smaller tasks also improved my understanding of task organisation. Trello provided a shared view of the team's work, while task cards and checklists helped record responsibilities and progress.
+
+The process demonstrated the relationship between requirements, interface design and development. Registration and login support customer access, laundry services help customers understand the available offerings, and booking and order-related functionality support the service journey.
+
+Completing and testing GoClean helped me connect these planning activities with the finished application. Overall, I gained a stronger understanding of user-centred requirements, acceptance criteria, prioritisation and the role of Agile practices in organising software development.
+
+## 5. Supporting Evidence
+
+### Evidence 1: GoClean Login Interface
+
+![GoClean Login Interface](assets/img/goclean-login.png)
+
+The login interface demonstrates the customer access screen developed for the application.
+
+### Evidence 2: GoClean Services Interface
+
+![GoClean Services Interface](assets/img/goclean-services.png)
+
+The services interface demonstrates how the application presents its laundry service offerings.
+
+### Evidence 3: Order Page Booking Task Breakdown
 
 ![GoClean Order Page Booking Task](assets/img/order-page-booking.png)
 
+The Trello card records five completed subtasks and 100% checklist progress. It demonstrates task breakdown and recorded completion for the booking feature.
 
-## 5. Personal Reflection
+The GoClean Trello board provides additional evidence of the team's backlog organisation and task management:
 
-Developing user stories helped me understand the importance of designing an application around the needs of its users. I learned to consider the customer's perspective when identifying features and to explain how each feature contributes to the overall experience. For GoClean, this meant focusing on convenient access to laundry services, clear service information and a straightforward customer journey.
+[View the GoClean Trello Board](https://trello.com/b/Ia2c4Am0/goclean-app).
 
-Writing tasks and acceptance criteria improved my understanding of requirements analysis. Breaking a feature into smaller tasks made the work more manageable, while acceptance criteria provided clear conditions for determining whether a requirement had been addressed.
+## 6. Conclusion
 
-I also learned that prioritisation is an important part of Agile development. By identifying high-priority features, the team could focus on the essential customer journey before considering supporting features. This helped me understand how product requirements can be organised according to their value to users.
+The GoClean user stories and tasks demonstrate how customer needs were translated into organised software requirements. The stories, tasks, acceptance criteria and priorities helped establish a structured view of the application's functionality.
 
-Using Trello strengthened my understanding of teamwork and task management. Task cards, checklists and backlog organisation provided visibility into the work and helped the team monitor progress. Overall, developing the user stories and tasks improved my skills in user-centred design, requirements analysis, prioritisation, collaboration and Agile project planning.
+The supporting interface screenshots and Trello task evidence connect these requirements with the work recorded throughout the project. Completing and testing GoClean allowed the team to translate its planning into a functional application.
 
-## 6. Supporting Evidence
-
-The following artefacts demonstrate the user stories, application interfaces and task organisation used in the GoClean project:
-
-1. **Login Interface:** Shows the GoClean login page and its main interface elements.
-2. **Services Interface:** Shows the laundry service categories and displayed starting prices.
-3. **Order Page (Booking) Task Card:** Shows the booking task breakdown and recorded task progress.
-4. **GoClean Trello Board:** Provides an overview of the team's project organisation and task management.
-
-Together, these artefacts connect the written user requirements to the application's interface and the team's Agile workflow. They demonstrate how customer needs were translated into organised tasks and prioritised features throughout the GoClean project.
+This activity strengthened my understanding of user-centred design, requirement prioritisation, acceptance criteria, task breakdown and Agile project organisation.
