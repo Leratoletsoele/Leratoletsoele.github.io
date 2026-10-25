@@ -1,5 +1,5 @@
 
-# GoClean — Sprint Backlog
+# GoClean Sprint Backlog
 
 ## 1. Introduction
 
