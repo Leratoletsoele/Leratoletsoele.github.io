@@ -1,5 +1,4 @@
-
-# GoClean – Product Backlog
+# GoClean Product Backlog
 
 ## 1. Introduction
 
@@ -114,6 +113,8 @@ Trello supported the team's collaboration by providing a shared visual workspace
 
 The relationship between the product backlog, sprint groupings and Trello task cards helped connect the project's requirements with its development activities.
 
+The completed and tested GoClean application demonstrates how the team's requirements and planning activities were translated into a functional digital solution.
+
 ## 6. Personal Reflection
 
 Creating and working with the GoClean product backlog helped me understand how a broad project idea can be organised into individual features with clear purposes and priorities. Instead of treating the application as one large task, I learned to separate its requirements into areas such as customer access, laundry booking, order information and account management.
@@ -135,6 +136,5 @@ Overall, this experience improved my knowledge of Agile planning, requirements a
 The Trello board provides an overview of how the team organised the GoClean project, arranged task cards and grouped work into sprints. It supports the discussion of backlog management, sprint planning, task organisation and team collaboration.
 
 ![GoClean Trello Board](assets/img/goclean-trello-board.png)
-
 
 The Trello board complements the product backlog by showing the team's visual approach to project organisation. Together, the backlog and its supporting evidence demonstrate how Agile principles were used to organise requirements, prioritise features and manage tasks throughout the GoClean project.
