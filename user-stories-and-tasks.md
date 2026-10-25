@@ -1,5 +1,5 @@
 
-# GoClean – User Stories and Tasks
+# GoClean User Stories and Tasks
 
 ## 1. Introduction
 
