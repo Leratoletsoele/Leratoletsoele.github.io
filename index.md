@@ -1,4 +1,4 @@
-# GoClean — Agile Project Portfolio
+# GoClean Agile Project Portfolio
 
 Welcome to our GoClean Agile Project Portfolio. This portfolio presents our team's project journey, completed application, Agile practices, supporting evidence and reflections on what we learned throughout the project.
 
