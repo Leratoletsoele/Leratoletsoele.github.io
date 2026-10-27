@@ -93,4 +93,4 @@ The GoClean project brought together application development, Agile planning, te
 
 ---
 
-*GoClean — Agile Project Portfolio.*
+*GoClean Agile Project Portfolio.*
