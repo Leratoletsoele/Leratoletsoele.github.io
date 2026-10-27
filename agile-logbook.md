@@ -108,7 +108,6 @@ The Login Page card records activity on 2 August 2026, and its checklist shows f
 
 These records demonstrate task breakdown, responsibility allocation and recorded progress. They also show how Trello provided a shared reference point for organising and reviewing project activities.
 
-The GoClean Trello board can also be accessed here: [View the GoClean Trello Board](https://trello.com/b/Ia2c4Am0/goclean-app).
 
 ### Evidence 3: Completed Application Interfaces
 
