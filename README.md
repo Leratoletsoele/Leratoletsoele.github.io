@@ -70,7 +70,6 @@ Records the project timeline, important decisions, planning activities, challeng
 
 Our Trello board provides evidence of the product backlog, sprint organisation and task checklists. It demonstrates how the team organised work, assigned responsibilities and tracked progress throughout the project.
 
-[View the GoClean Trello board](https://trello.com/b/Ia2c4Am0/goclean-app)
 
 ![GoClean Trello board](assets/img/goclean-trello-board.png)
 
