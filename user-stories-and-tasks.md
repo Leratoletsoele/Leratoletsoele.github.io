@@ -234,11 +234,8 @@ The services interface demonstrates how the application presents its laundry ser
 
 ![GoClean Order Page Booking Task](assets/img/order-page-booking.png)
 
-The Trello card records five completed subtasks and 100% checklist progress. It demonstrates task breakdown and recorded completion for the booking feature.
+The Trello card records completed subtasks and 100% checklist progress. It demonstrates task breakdown and recorded completion for the booking feature.
 
-The GoClean Trello board provides additional evidence of the team's backlog organisation and task management:
-
-[View the GoClean Trello Board](https://trello.com/b/Ia2c4Am0/goclean-app).
 
 ## 6. Conclusion
 
